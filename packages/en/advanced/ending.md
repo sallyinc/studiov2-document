@@ -1,10 +1,10 @@
-# Distributing All Endings
+# Distribute all endings
 
 In v1, all endings were forcibly revealed during the post-game discussion, but in v2, creators can now decide whether or not to show endings that the players did not pass through.
 
 This guide explains how to make all endings viewable on the post-game discussion screen.
 
-\
+\\
 
 ## Method 1: Distribute Endings on the "Thank You" Screen
 
@@ -12,17 +12,17 @@ This guide explains how to make all endings viewable on the post-game discussion
 
 From the phase list screen, click "Add Phase" and select a "Basic" phase to create. You can customize the content of the phase freely.
 
-![](../images/end1.png)
+![](../.gitbook/assets/end1.png)
 
-\
+\\
 
 **② Place the "Thank You" Phase Just Before the Post-Game Discussion Screen**
 
 From the phase list screen, proceed to "Set Phase Progress" and insert the phase you added in step ① just before the post-game discussion screen.
 
-![](../images/end2.png)
+![](../.gitbook/assets/end2.png)
 
-\
+\\
 
 **③ Distribute Endings as Text**
 
@@ -36,7 +36,7 @@ From the text list, go to the editing screen of each ending text you added in st
 
 <figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## Method 2: Distribute Endings via Settings
 
@@ -46,7 +46,7 @@ From the phase list, go to the editing screen of each ending phase, and check th
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.27.25.png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 **② Add Distribution Timing**
 
@@ -56,7 +56,7 @@ Set the relationships between conditions to "or."
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.37.13.png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## Method 3: Transcribe Endings into the Post-Game Discussion Screen
 

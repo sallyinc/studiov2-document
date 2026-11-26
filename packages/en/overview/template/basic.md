@@ -1,4 +1,4 @@
-# Basic Usage
+# Basic usage
 
 ## Creating a New Scenario
 
@@ -22,14 +22,14 @@ Once entered, don't forget to click the " **Save and Reflect** " button at the b
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Cover Image          | Set a 16:9 wide image. For detailed regulations, refer to [this page](../visual-regulation.md).                                             | —                                                                                                                                       |
 | Title                | This is the title displayed in the app.                                                                                                     | Murder at Uzumaki Manor                                                                                                                 |
-| Furigana             | Displayed under the title in the app’s scenario details screen. Only **hiragana** can be entered.                                           | うずまきかんのさつじん                                                                                                                  |
-| Genre                | Set which genre you most want the audience to play.                                                                                         | ・Murder Mystery <br>・Story Playing                                                                                                    |
-| Play Time            | This is the total time from gathering to dispersal. Include some extra time for character selection, etc.                                   | 60 minutes <br>(45 minutes + 15 minutes buffer)                                                                                         |
-| Short Title          | Used for invites and hashtags. Can be the same as the full title.                                                                           | ・うずさつ <br>・Murder at Uzumaki Manor                                                                                                |
-| Scenario Tags        | Set to prevent mismatches between players and scenarios. For detailed instructions, see [this page](../../scenariohome/overview/#shinario). | ・Closed-type Murder Mystery <br>・For Beginners/Intermediate Players                                                                   |
-| Warnings             | Use when your scenario contains themes that might be uncomfortable for some players.                                                        | ・Contains Horror <br>・Character Death Possible                                                                                        |
+| Furigana             | Displayed under the title in the app’s scenario details screen. Only **hiragana** can be entered.                                           | うずまきかんのさつじん                                                                                                                             |
+| Genre                | Set which genre you most want the audience to play.                                                                                         | <p>・Murder Mystery<br>・Story Playing</p>                                                                                                |
+| Play Time            | This is the total time from gathering to dispersal. Include some extra time for character selection, etc.                                   | <p>60 minutes<br>(45 minutes + 15 minutes buffer)</p>                                                                                   |
+| Short Title          | Used for invites and hashtags. Can be the same as the full title.                                                                           | <p>・うずさつ<br>・Murder at Uzumaki Manor</p>                                                                                                |
+| Scenario Tags        | Set to prevent mismatches between players and scenarios. For detailed instructions, see [this page](../../scenariohome/overview/#shinario). | <p>・Closed-type Murder Mystery<br>・For Beginners/Intermediate Players</p>                                                               |
+| Warnings             | Use when your scenario contains themes that might be uncomfortable for some players.                                                        | <p>・Contains Horror<br>・Character Death Possible</p>                                                                                    |
 | Synopsis             | This is the synopsis displayed in the scenario details screen in the app.                                                                   | On a winter day, four people gather at Uzumaki Manor. They awaken to the scream of a servant, only to find the manor's master murdered. |
-| Creator's Comment    | Include comments or credits if any.                                                                                                         | This is my first time creating a murder mystery. <br>・Illustrations: [Name] <br>・BGM: [Name]                                          |
+| Creator's Comment    | Include comments or credits if any.                                                                                                         | <p>This is my first time creating a murder mystery.<br>・Illustrations: [Name]<br>・BGM: [Name]</p>                                       |
 | Role Hints           | Include any necessary information for players selecting characters.                                                                         | Some characters have different play styles.                                                                                             |
 | Streaming Permission | Use the checkbox to allow streaming if you want.                                                                                            | —                                                                                                                                       |
 
@@ -61,17 +61,17 @@ Open the **"Introduction" phase**. Basic murder mystery rules are already input.
 
 Open the **"Opening" phase** and input the reading-aloud part for the opening. Follow these three steps:
 
-- Enter the dialogue.
-- Set the narrator for the non-dialogue text.
-- Fill in the character names in the subtitle placeholder "○○."
+* Enter the dialogue.
+* Set the narrator for the non-dialogue text.
+* Fill in the character names in the subtitle placeholder "○○."
 
-For detailed instructions and how it will appear in the app, refer to [this page](../../basic-features/phase/script.md).
+For detailed instructions and how it will appear in the app, refer to [this page](../../basic-features/phase/basic/script.md).
 
 ### ④ Enter Character Texts
 
 Go to the " **Text** " tab from the left menu and edit the character texts for the number of players.
 
-For detailed instructions and how it will appear in the app, refer to [this page](../../basic-features/textTab.md).
+For detailed instructions and how it will appear in the app, refer to [this page](../../basic-features/texttab.md).
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 

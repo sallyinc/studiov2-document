@@ -2,7 +2,7 @@
 description: Color Themes
 ---
 
-# Color Themes
+# Color themes
 
 You can configure the color themes from the Color Themes page.
 
@@ -18,4 +18,4 @@ The feature to switch color themes during the scenario is planned for future imp
 
 The text color is automatically optimized, so you don’t need to change it according to the mode.
 
-![](../../images/mode2.png)
+![](../../.gitbook/assets/mode2.png)

@@ -28,7 +28,7 @@ For a normal investigation token that is **distributed equally to everyone**, it
 
 Tokens that are distributed under special conditions, like when a certain clue is obtained or a certain option is voted on, can also be set up.
 
-![](../images/decks4.png)
+![](../.gitbook/assets/decks4.png)
 
 \\
 
@@ -44,25 +44,25 @@ From the "Add Deck" button, you can create a new deck.
 
 The basic items of a deck are as follows:
 
-- **Title**
-  - The title of the deck.
-- **Description**
-  - The description of the deck. Since the button used when utilizing the deck is fixed as "**Execute**," please write the description accordingly.
-  - Do not include details about the remaining number of cards or the tokens consumed in the description, as these are displayed automatically.
-- **Execution Conditions**
-  - You can set the conditions for executing the deck. For example, you can make it so that certain characters cannot perform actions or that actions cannot be performed without specific clues.
-- **Tokens Consumed**
-  - You can set how many tokens are consumed when the deck is used.
-  - The tokens are fixed per deck, not per clue.
-- **Clues Included in the Deck**
-  - You can set which clues to include in the deck. Any number of clues can be set.
-  - If you have **already created clues**, select from the "List of Clues," and if you are **creating new clues**, click "Create New".
-  - For each clue, you can set whether the character who draws the clue from the deck owns it or if it is made public to everyone. Ownership allows for public sharing or transfer at any time by the owner.
-  - The distribution conditions for the clues included in the deck are automatically set to "when drawn from the deck," so **setting distribution conditions for each clue** is not necessary.
+* **Title**
+  * The title of the deck.
+* **Description**
+  * The description of the deck. Since the button used when utilizing the deck is fixed as "**Execute**," please write the description accordingly.
+  * Do not include details about the remaining number of cards or the tokens consumed in the description, as these are displayed automatically.
+* **Execution Conditions**
+  * You can set the conditions for executing the deck. For example, you can make it so that certain characters cannot perform actions or that actions cannot be performed without specific clues.
+* **Tokens Consumed**
+  * You can set how many tokens are consumed when the deck is used.
+  * The tokens are fixed per deck, not per clue.
+* **Clues Included in the Deck**
+  * You can set which clues to include in the deck. Any number of clues can be set.
+  * If you have **already created clues**, select from the "List of Clues," and if you are **creating new clues**, click "Create New".
+  * For each clue, you can set whether the character who draws the clue from the deck owns it or if it is made public to everyone. Ownership allows for public sharing or transfer at any time by the owner.
+  * The distribution conditions for the clues included in the deck are automatically set to "when drawn from the deck," so **setting distribution conditions for each clue** is not necessary.
 
-![](../images/decks6.png)
+![](../.gitbook/assets/decks6.png)
 
-![](../images/decks7.png)
+![](../.gitbook/assets/decks7.png)
 
 \\
 
@@ -70,7 +70,7 @@ There are two ways to delete a deck.
 
 If you want to **dissolve the deck structure while keeping the clues included**, choose "Delete this deck." If you want to **erase both the deck and all the clues included**, select "Erase this deck along with the clues."
 
-![](../images/decks9.png)
+![](../.gitbook/assets/decks9.png)
 
 \\
 
@@ -80,7 +80,7 @@ Decks can be placed in the "**Basic**" phase. The basic phase can be identified 
 
 From the list of phases, select the phase where you want to place the deck.
 
-![](../images/decks10.png)
+![](../.gitbook/assets/decks10.png)
 
 \\
 
@@ -88,7 +88,7 @@ Click the "Add" button in the phase details and select both "**Tokens**" and "**
 
 To allow viewing of each character's remaining tokens during the investigation, it is recommended to set up both "Tokens" and "Deck Investigation" during the phase that involves deck investigation.
 
-![](../images/decks11.png)
+![](../.gitbook/assets/decks11.png)
 
 \\
 
@@ -96,7 +96,7 @@ The actual screen during play looks like this:
 
 In this example, since the actor cannot investigate their own props, the "Execute" button is disabled on the screen of the actor on the far left.
 
-![](../images/decks8.png)
+![](../.gitbook/assets/decks8.png)
 
 ### Random Distribution of Decks
 

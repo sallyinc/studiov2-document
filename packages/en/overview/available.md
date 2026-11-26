@@ -1,4 +1,4 @@
-# What You Can and Cannot Do in Uzu Studio v2
+# What can and cannot be done with Uzu Studio v2
 
 (Last updated: 11/14)
 
@@ -20,10 +20,10 @@ You can create NPC characters and assign them as part of the character list or a
 
 Uzu Studio currently allows you to create the following four types of phases:
 
-- Basic Phase (for displaying text or images)
-- Read-Aloud Phase (for sections composed of narrative and dialogue, such as openings or endings)
-- Voting Phase (for conducting various types of votes, such as identifying the culprit)
-- Game Flow Display Phase (for showing the overall flow of the scenario)
+* Basic Phase (for displaying text or images)
+* Read-Aloud Phase (for sections composed of narrative and dialogue, such as openings or endings)
+* Voting Phase (for conducting various types of votes, such as identifying the culprit)
+* Game Flow Display Phase (for showing the overall flow of the scenario)
 
 You can create as many phases of each type as needed.
 
@@ -33,7 +33,7 @@ You can freely configure phase transitions based on conditions. For more details
 
 ### Distribute Text at Any Time
 
-You can distribute character sheets or additional information at any time. You can also hide previously distributed text. For more information, see [this guide](../basic-features/textTab.md).
+You can distribute character sheets or additional information at any time. You can also hide previously distributed text. For more information, see [this guide](../basic-features/texttab.md).
 
 ### Distribute and Retrieve Clues
 
@@ -53,7 +53,7 @@ You can choose from various color modes, including light mode and dark mode, and
 
 ### Set BGM and SE
 
-You can configure the playback and stopping of BGM and sound effects at any point. More details are available [here](../basic-features/bgm.md).
+You can configure the playback and stopping of BGM and sound effects at any point. More details are available [here](../basic-features/bgm/).
 
 ### Integrate Investigation Phases 1
 
@@ -71,7 +71,7 @@ You can now combine AND and OR conditions up to three levels deep (since Novembe
 
 You can now set background images at any time.
 
-\
+\\
 
 ## 🙅‍♀️ What You Cannot Do in Uzu Studio v2
 

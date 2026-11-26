@@ -1,4 +1,4 @@
-# Top Right Button: Create Latest Version
+# Top right button: Create the latest version
 
 ## How to Create the Latest Version
 
@@ -6,7 +6,7 @@ Once you have finished creating your scenario, first reflect the content in the 
 
 Pressing the **top right button** will automatically perform an error check to see if a new version can be created.
 
-![](../images/submit1.png)
+![](../.gitbook/assets/submit1.png)
 
 ## Error Check and Correction
 
@@ -14,15 +14,15 @@ If there are any settings missing, **unconfigured areas will be displayed**, so 
 
 Clicking "**Go to the corresponding section**" will take you directly to the location of the error.
 
-![](../images/demo2.png)
+![](../.gitbook/assets/demo2.png)
 
-\
+\\
 
 If everything is set up correctly, a popup for creating the version will appear.
 
 The input field is a memo field for your own use to make it easier to check what was modified later. It is not visible to anyone other than the author, so feel free to fill it in. It's also okay to leave it blank.
 
-![](../images/submit4.png)
+![](../.gitbook/assets/submit4.png)
 
 #### ※What is the Latest Version?
 
