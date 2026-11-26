@@ -10,13 +10,13 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 「액션 추가」를 클릭하면 신규 생성할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/action-ko-01.png" alt="" width="563"><figcaption></figcaption></figure>
 
 액션에는 다음의 2가지 종류가 있습니다(2024.11.19 기준).
 
 <table><thead><tr><th width="141">명칭</th><th>내용</th></tr></thead><tbody><tr><td><a href="action.md#shinpuruakushonno">심플</a></td><td>「실행하기」만 누르면 액션이 발동한다</td></tr><tr><td><a href="action.md#pasuwdoakushonno">비밀번호</a></td><td>「실행하기」를 누르면 비밀번호 입력이 요구되며, 올바른 비밀번호를 입력하면 액션이 발동한다</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/action-ko-02.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 설정 가능한 액션 목록
 
@@ -33,13 +33,13 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 * **액션의 실행 조건**:캐릭터의 제한만이라면 체크박스로 간단히 설정할 수 있습니다. 그 외 세부 조건을 설정하고 싶은 경우에는「[**고급 설정**](action.md#na)」을 이용해 주세요.
 * **결과 액션**:「실행하기」를 누르면 무엇이 일어나는지를 설정합니다. 이미지 예시에서는, 실행하면 특정 단서가 배포되도록 설정하고 있습니다.
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/03.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 결과 액션을 여러 개 설정하기
 
 아래 이미지와 같이, 결과 액션을 여러 개 설정할 수 있습니다. 이들은 플레이어가「실행하기」버튼을 1회 눌렀을 때**일련의 액션으로서 모두 실행**됩니다. 위에서부터 순서대로 처리되므로, 「단서를 배포→알림을 보내기」의 순서로 처리하고 싶다면, 이 화면에서 위에서부터 그렇게 나열되도록 설정해 주세요.
 
-<figure><img src="../.gitbook/assets/image (59).png" alt="" width="515"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/04.png" alt="" width="515"><figcaption></figcaption></figure>
 
 ### 액션 배치(단서/단계에서의 설정) <a href="#akushonnogakarifzudeno" id="akushonnogakarifzudeno"></a>
 
@@ -49,7 +49,7 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 다음과 같이, 「일기」라는 단서 내부에 「내용을 보기(1페이지의 내용을 추가 배포하기)」라는 액션을 두고자 합니다.
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/05.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ① 왼쪽 메뉴에서 「단서」로 이동합니다.
 
@@ -59,11 +59,11 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 ④ 배치하려는 액션을 선택하고 결정을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/06.png" alt="" width="563"><figcaption></figcaption></figure>
 
 액션란에 아래와 같이 표시되면 성공입니다.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/07.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 비밀번호 액션 설정 <a href="#pasuwdoakushonno" id="pasuwdoakushonno"></a>
 
@@ -85,7 +85,7 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 아래와 같이 「토론 단계」에, 비밀번호로 금고를 열 수 있는 액션을 배치하려고 한다고 가정합니다.
 
-<figure><img src="../.gitbook/assets/image (64).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ① 왼쪽 메뉴에서 「단계」로 이동합니다.
 
@@ -97,11 +97,11 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 ⑤ 해당 액션에 체크하고 「결정」을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11.png" alt="" width="563"><figcaption></figcaption></figure>
 
 아래와 같이 적절히 추가되었다면 성공입니다.
 
-<figure><img src="../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 확장편:실행 조건의 고급 설정 <a href="#na" id="na"></a>
 
@@ -117,13 +117,13 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 **심플 액션의 경우**
 
-<figure><img src="../.gitbook/assets/image (67).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **패스워드 액션의 경우**
 
 위의 심플 액션과 동일하게 설정해 버리면, 비밀번호 입력에 오답이었던 경우에도 「실행했다」고 판단되어 그 이후에는 누구도 입력에 도전할 수 없게 되므로, 약간의 설정상의 조정이 필요합니다.
 
-<figure><img src="../.gitbook/assets/image (68).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 기타 제한
 

@@ -13,7 +13,7 @@
 3. 배포 조건 추가를 누릅니다.
 4. 토큰을 배포하고 싶은 단계, 배포할 수를 설정합니다.<br>
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (64).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -23,30 +23,34 @@
 2. 소비 토큰 필드에 방금 만든 토큰을 설정하여 소비 수를 결정합니다.
 3. 「소비수와 소지수를 표시」는, 앱으로 더미 조사를 실행하는 화면에서의 표시의 ON/OFF를 가리킵니다(ON상태를 기본으로 하시면 좋습니다).
 
+<figure><img src="../.gitbook/assets/02 (51).png" alt="" width="563"><figcaption></figcaption></figure>
+
+조사 토큰과 함께 다른 토큰도 소비하도록 설정하면, 스킬이 필요한 더미나 특수 조사에도 대응할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/03 (42).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### 아이콘 및 컬러 테마 변경 <a href="#change" id="change"></a>
 
 아이콘이나 컬러 테마 등 상태의 ON/OFF를 토큰의 개수에 묶는 사용법입니다.
 
 예를 들어, 다음과 같은 변신 스킬을 통합하고 싶습니다.
 
-<img src="https://docs.studio.uzu-app.com/~gitbook/image?url=https%3A%2F%2F1279302283-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgOyErfAjeKrNXFgLBxtx%252Fuploads%252FwkFKKliKwK96cI6ORZuq%252Fimage.png%3Falt%3Dmedia%26token%3D5cc76962-e90c-464e-b5d6-b8f13627ea2e&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=e80170e1&#x26;sv=2" alt="" height="528" width="420">
+<img src="../.gitbook/assets/04 (33).png" alt="" width="315">
 
 1. "변신 토큰"을 새로 만듭니다.
 2. 「변신하는 액션」과 「변신을 취하는 액션」을 [심플 액션](https://docs.studio.uzu-app.com/basic-features/action#shinpuruakushonno) 으로 작성합니다
 3. 각 내용으로 "변신 토큰을 리셋하여 +1" "변신 토큰을 리셋하여 0"을 설정합니다.
 4.  캐릭터 편집 화면에서 「조건 첨부 아이콘」을 추가해, 조건으로서 「수치 카운트：해당 캐릭터의 변신 토큰이 1과 같다」를 설정합니다(2단계의 변신이 있는 경우는 마찬가지로 「변신 토큰이 2」의 경우도 작성)<br>
 
-    ![](https://docs.studio.uzu-app.com/~gitbook/image?url=https%3A%2F%2F1279302283-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgOyErfAjeKrNXFgLBxtx%252Fuploads%252FnEzT0J2D5iILOkgXbFKM%252Fimage.png%3Falt%3Dmedia%26token%3D19ce70cd-3bd4-4bac-b3c3-a95576870564\&width=768\&dpr=3\&quality=100\&sign=18ea0a69\&sv=2)
+    <img src="../.gitbook/assets/05 (27).png" alt="" width="563">
 
-    <img src="https://docs.studio.uzu-app.com/~gitbook/image?url=https%3A%2F%2F1279302283-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgOyErfAjeKrNXFgLBxtx%252Fuploads%252FGnEFKjzLgPbz0VIv7VIx%252Fimage.png%3Falt%3Dmedia%26token%3Df039fc35-2b91-4c4d-90dd-d2493f0dfee9&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=b3790e8e&#x26;sv=2" alt="" width="375">
+    <img src="../.gitbook/assets/06 (18).png" alt="" width="563">
 
 
 
 위는 아이콘 변경의 예입니다만, 닉네임・컬러 테마・배경 화상에서도 같은 설정이 가능합니다.
 
-
-
-![](https://docs.studio.uzu-app.com/~gitbook/image?url=https%3A%2F%2F1279302283-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgOyErfAjeKrNXFgLBxtx%252Fuploads%252F6F99dPm9k1DJeQPqSGH0%252Fimage.png%3Falt%3Dmedia%26token%3D1a08b169-53d5-41db-ad2b-f40fa87d7af8\&width=768\&dpr=3\&quality=100\&sign=f855b88d\&sv=2)
+<img src="../.gitbook/assets/07 (13).png" alt="" width="563">
 
 ### 수치 비교 <a href="#count" id="count"></a>
 
@@ -58,3 +62,9 @@
 4. 그 텍스트에 「수치 카운트 토큰 소지수 ●●의 토큰이 ○○보다 큰(미만)」를 설정합니다
 
 텍스트 표시가 아니라 위상 분기에서 사용하고 싶을 때는 같은 설정을 단계 진행 화면에서 수행하십시오.
+
+<figure><img src="../.gitbook/assets/08 (7).png" alt="" width="563"><figcaption></figcaption></figure>
+
+투표에 가중치를 두고 싶을 때도 같은 방식으로 설정할 수 있습니다. 아래는 「탐정의 투표만 2표로 계산하는」 경우의 예시입니다.
+
+<figure><img src="../.gitbook/assets/09 (6).png" alt="" width="563"><figcaption></figcaption></figure>

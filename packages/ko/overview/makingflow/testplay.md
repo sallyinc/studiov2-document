@@ -12,13 +12,13 @@
 
 **오른쪽 위의 재생 버튼을 클릭**하면「동작 확인」화면으로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 동작 확인에서는 앱과 거의 동일한 화면에서 시나리오를 처음부터 끝까지 확인할 수 있습니다.
 
 플레이어 수만큼 스마트폰을 가정한 화면이 나란히 표시되므로, 한 사람이 모든 인원 분량을 조작하는 느낌으로 확인해볼 수 있습니다. BGM과 SE도 재생됩니다.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 동작 확인에서는 아래와 같은 실수가 없는지 확인해 두면 좋습니다.
 
@@ -40,7 +40,7 @@
 
 입력이나 설정에 누락이 없으면 반영이 진행됩니다. 입력이나 설정이 되어 있지 않은 부분이 있으면 오류가 표시됩니다. 오류가 표시되면 안내된 위치를 확인하고 적절히 수정해 주세요.
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/03 (2).png" alt="" width="524"><figcaption></figcaption></figure>
 
 #### ② 버전 메모 입력하기 <a href="#id-02" id="id-02"></a>
 
@@ -56,7 +56,7 @@
 
 #### **① 릴리스 관리 화면에서 URL 또는 작품 ID 복사하기** <a href="#event01" id="event01"></a>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/04 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### **② 공유하기** <a href="#event02" id="event02"></a>
 
@@ -71,6 +71,8 @@
 * 왼쪽 위 아이콘을 탭하고, 표시된 메뉴 바에서 「ID 검색」→「시나리오를 검색」을 탭해 주세요.
 * 시나리오 검색 화면이 나오면 ①에서 복사한 시나리오 ID를 붙여넣습니다.
 
+<figure><img src="../../.gitbook/assets/05 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
 #### ④**시나리오 상세 화면이 표시됩니다** <a href="#event04" id="event04"></a>
 
 #### ⑤**이벤트 만들기** <a href="#event05" id="event05"></a>
@@ -79,7 +81,7 @@
 * 「이벤트 예정 생성」을 선택하고 「**이벤트 설정으로**」 로진행합니다
 * 「**관전 허용**」이 ON인지 확인한 뒤, 자신의 참가 슬롯에서 「**관전자**」를 선택합니다
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/06 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### ⑥**공유용 링크 가져오기** <a href="#event06" id="event06"></a>
 

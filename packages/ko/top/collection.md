@@ -11,7 +11,7 @@ description: 시나리오 컬렉션 기능에서는 시리즈 작품이나 기�
 **① 왼쪽 메뉴에 있는「새 컬렉션」을 클릭합니다.**
 
 **② 컬렉션 제목**(앱 내 검색에서 검색됨)**·설명문을 입력하고, 넣고 싶은 작품을 추가합니다.**\
-&#xNAN;**※ 추가할 수 있는 것은 자신이 관리자인 작품만입니다.**
+\&#xNAN;**※ 추가할 수 있는 것은 자신이 관리자인 작품만입니다.**
 
 {% hint style="warning" %}
 **주의 사항**
@@ -23,7 +23,7 @@ description: 시나리오 컬렉션 기능에서는 시리즈 작품이나 기�
 이미 사용 중인 컬렉션명을 입력하면 오류가 표시되도록 할 예정입니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (12).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 앱에서의 모습
 
@@ -33,7 +33,7 @@ description: 시나리오 컬렉션 기능에서는 시리즈 작품이나 기�
 
 우즈 스튜디오의 컬렉션 **편집 화면에서의 순서와 관계없이, 작품은 릴리스 순으로 정렬됩니다**.
 
-<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 관련 시나리오 기능과의 구분
 

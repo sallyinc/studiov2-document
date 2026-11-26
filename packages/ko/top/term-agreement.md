@@ -1,4 +1,4 @@
-# 각종 규약에 대한 동의
+# 각종 약관 동의
 
 규약 동의는 제작 시나리오 목록 화면 오른쪽 위의 아이콘에서 진행할 수 있습니다.
 
@@ -6,4 +6,4 @@
 
 특히 유료 공개 작품의 경우 한 사람이라도 규약 동의 버튼을 누르지 않으면 운영 측에서 플레이 요금 설정을 할 수 없으니 주의해 주세요.
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (9).png" alt="" width="563"><figcaption></figcaption></figure>

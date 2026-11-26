@@ -46,18 +46,19 @@
 
 ## 각 기능 상세 <a href="#basic-features" id="basic-features"></a>
 
-* [캐릭터](basic-features/character.md)
+* [캐릭터](basic-features/character/README.md)
   * [캐릭터의 기본 항목](basic-features/character/basic.md)
   * [미션](basic-features/character/mission.md)
   * [특수 캐릭터 유형](basic-features/character/second-play-character.md)
-* [단계](basic-features/phase.md)
-  * [단계 생성·개요](basic-features/phase/basic.md)
-    * [기본 단계](basic-features/phase/discussion.md)
-    * [함께 읽기 단계](basic-features/phase/script.md)
-    * [게임의 흐름 단계](basic-features/phase/timeline.md)
-    * [투표 단계 만들기](basic-features/phase/select.md)
+* [단계](basic-features/phase/README.md)
+  * [단계 생성·개요](basic-features/phase/basic/README.md)
+    * [기본 단계](basic-features/phase/basic/discussion.md)
+    * [함께 읽기 단계](basic-features/phase/basic/script.md)
+    * [게임의 흐름 단계](basic-features/phase/basic/timeline.md)
+    * [투표 단계 만들기](basic-features/phase/basic/select.md)
+    * [탐색 단계](basic-features/phase/basic/undefined.md)
   * [단계 진행](basic-features/phase/flow.md)
-* [텍스트](basic-features/textTab.md)
+* [텍스트](basic-features/texttab.md)
 * [룸](basic-features/room.md)
 * [감상 공유 화면](basic-features/result.md)
 * [단서](basic-features/clue.md)
@@ -65,12 +66,14 @@
 * [액션](basic-features/action.md)
 * [토큰](basic-features/undefined.md)
 * [자유 기재](basic-features/text-fields.md)
+* [트리거](basic-features/undefined-1.md)
 * [연출](basic-features/effect/README.md)
   * [BGM](basic-features/effect/bgm.md)
   * [SE·내레이션](basic-features/effect/se.md)
   * [무비](basic-features/effect/movie.md)
   * [배경 이미지](basic-features/effect/background.md)
   * [컬러 테마](basic-features/effect/colortheme.md)
+* [화면 디자인](basic-features/undefined-2.md)
 * [전체 공통: 조건 설정](basic-features/condition.md)
 * [오른쪽 위 버튼:동작 확인](basic-features/demo.md)
 * [오른쪽 위 버튼: 최신 버전 만들기](basic-features/new-version.md)
@@ -97,4 +100,4 @@
 
 ## 자주 묻는 질문 <a href="#qanda" id="qanda"></a>
 
-* [자주 묻는 질문](QandA.md)
+* [자주 묻는 질문](qanda/qanda.md)

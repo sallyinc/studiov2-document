@@ -2,7 +2,7 @@
 
 ## 티켓 코드 발행
 
-유료 시나リ오에 한해, 시나리오를 무료로 체험할 수 있는 티켓과 교환할 수 있는 코드를 발행할 수 있습니다. 자신의 시나리오를 플레이하고 리뷰를 작성해 주길 바랄 때나, 캠페인을 진행할 때 등에 유용한 기능입니다.　
+유료 시나리오에 한해, 시나리오를 무료로 체험할 수 있는 티켓과 교환할 수 있는 코드를 발행할 수 있습니다. 자신의 시나리오를 플레이하고 리뷰를 작성해 주길 바랄 때나, 캠페인을 진행할 때 등에 유용한 기능입니다.　
 
 유료 작품의 v2 이전 테스트 플레이를 실시할 때, 무료로 플레이하도록 하는 데에도 사용할 수 있습니다.
 
@@ -17,29 +17,29 @@
 
 시나리오 상세 화면의 「마케팅」 탭으로 이동하여, 「신규 코드 발행」을 탭합니다.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01 (43).png" alt="" width="563"><figcaption></figcaption></figure>
 
 버튼을 누르면 아래와 같은 화면이 되고, 코드가 발행됩니다. 이 코드 번호를 시나리오를 플레이해 주길 원하는 사람에게 전달합니다. 코드는 하나당 한 번만 사용할 수 있으니 주의하세요.
 
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-04-15 18.49.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02 (31).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 앱에서 적용하는 방법
 
 사이드 메뉴에서 「쿠폰·티켓」을 누릅니다.
 
-<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/IMG_2013.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/03 (23).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 방금 발행한 쿠폰 코드를 입력하면, 「보유 티켓 목록」에 해당 시나리오의 무료 티켓이 추가됩니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/IMG_2014.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/04 (17).png" alt="" width="563"><figcaption></figcaption></figure>
 
 티켓이 교환되면, 우즈 스튜디오에서는 아래와 같은 화면이 표시되어, 교환한 사용자를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-04-15 19.00.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/05 (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 사용자용 사용 방법 설명 페이지
 
-사용자용의 사용 방법 설명 페이지가 공개되어 있습니다. 티켓을 건넬 상대에게 아래 링크를添えて 보내면 좋습니다.
+사용자용 사용 방법 설명 페이지가 공개되어 있습니다. 티켓을 건넬 상대에게 아래 링크를 함께 보내면 좋습니다.
 
 * [https://www.uzu-app.com/articles/free-play-ticket](https://www.uzu-app.com/articles/free-play-ticket)
 
@@ -58,4 +58,4 @@
 * 캠페인으로 플레이했다, 무료 티켓으로 플레이했다는 취지를 덧붙여 감상 게시를 하도록 하기
 * 기사나 감상 게시 시 홍보임을 명기하도록 하기
 
-자세한 내용은 「스텔스 마케팅」, 「스테마법」 등으로 검색해 보세요.
+자세한 내용은 「스텔스 마케팅」 등으로 검색해 보세요.

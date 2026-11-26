@@ -2,9 +2,9 @@
 
 단서에서는 게임 중에 주고받는 단서의 설정 및 편집을 할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (24).png" alt="" width="563"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/clue1.png)
+<img src="../.gitbook/assets/02 (19).png" alt="" width="563">
 
 ## 기본 항목
 
@@ -12,33 +12,35 @@
 
 대응은 다음과 같습니다.
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 (13).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **태그**는 플레이 중에 실행할 수 있는 필터 검색과도 관련되어 있습니다.
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/04 (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
-\\
+
 
 **비공개 단서의 존재를 소유자 이외의 단서 목록 화면에 표시할지 여부**도 설정할 수 있습니다. 이 설정을 ON으로 하면, 소유자 외의 사람도 그 사람이 어떤 단서를 보유하고 있음을 알 수 있게 됩니다.
 
 소유자 외의 화면에 표시되는 것은 「비공개 시 제목」과 「태그」뿐이며, 단서의 상세는 공개되지 않습니다.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/05 (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
-\\
+
 
 **단서 수의 표시에 대해**
 
 「공개된 단서」와 「비공개 시 표시 설정이 ON인 단서」, 즉 그 사람의 화면에서 존재가 드러나 있는 단서만 카운트됩니다.
 
-\\
+
 
 ## 배포 조건(선택)
 
 배포 조건은 오른쪽 위의 「＋추가」 버튼에서 설정합니다. 어떤 조건으로, 어떤 방식으로, 누구에게 배포할지를 정할 수 있습니다.
 
 배포 방식에서 「소유권」의 유무는 중요합니다. 단서에 대한 소유권이 있으면 전체 공개·공유·양도가 가능하고, 소유권이 없으면 그것들이 불가능합니다.
+
+<figure><img src="../.gitbook/assets/06 (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 회수 조건(선택) <a href="#hui-shou-tiao-jian-ren-yi" id="hui-shou-tiao-jian-ren-yi"></a>
 
@@ -70,7 +72,7 @@
 
 설치 조건 설정에서는, 단계뿐만 아니라, 투표 결과나 단서의 상황, 룸 등을 조건에 포함시킬 수 있습니다.
 
-![](../.gitbook/assets/clue8.png)
+<img src="../.gitbook/assets/07 (4).png" alt="" width="563">
 
 ## 액션
 

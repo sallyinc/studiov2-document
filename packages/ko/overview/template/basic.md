@@ -10,6 +10,8 @@
 
 ④ 「이 내용으로 생성」을 클릭한다.
 
+<figure><img src="../../.gitbook/assets/01 (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## 작품 개요를 입력하기
 
 위의 「이 내용으로 생성」을 클릭하면 아래와 같은 화면으로 이동합니다.
@@ -18,13 +20,15 @@
 
 입력했다면 화면 하단에 표시되는 「**저장하고 반영**」 버튼을 잊지 말고 클릭해 주세요.
 
-<table><thead><tr><th width="145">항목</th><th width="308">설명</th><th>예</th></tr></thead><tbody><tr><td>커버 이미지</td><td>16:9의 가로형 이미지를 설정합니다. 자세한 규정은 <a href="../visual-regulation.md">이 페이지</a>를 확인해 주세요.</td><td>－</td></tr><tr><td>제목</td><td>앱 안에서 표시되는 제목입니다.</td><td>소용돌이관의 살인</td></tr><tr><td>장르</td><td>어떤 장르를 원하는 사람에게 가장 플레이해 주었으면 하는지 설정해 주세요.</td><td><p>·머더 미스터리<br>·스토리 플레이잉<br>·수수께끼 풀이</p><p>·미니게임<br>·기타</p></td></tr><tr><td>플레이 시간</td><td><strong>집합부터 해산까지</strong>의 시간입니다. 캐릭터를 고르는 시간과 감상 공유 시간도 조금 포함해 여유 있게 설정해 주세요.</td><td>60분<br>(내용 45분＋여유 15분)</td></tr><tr><td>SNS용 해시태그</td><td><p>주로 시나리오 공유나 이벤트 공지 등 SNS 게시물에서 해시태그(#〇〇)로 사용됩니다. 설정하지 않으면 시나리오 제목이 그대로 사용되므로, 제목이 긴 경우 짧고 기억하기 쉬운 태그를 설정하는 것을 추천합니다.<br>또한 기존 해시태그와 겹치지 않는지 SNS 등에서 검색해 확인한 후 설정해 주세요.</p><p><br>마침표와 쉼표(., ,) 및 일부 기호(!?)는 해시태그가 되지 않습니다.</p></td><td>·うずさつ<br>·소용돌이관의 살인</td></tr><tr><td>시나리오 경향</td><td>머더 미스터리의 다양화에 따라 미스매치를 방지하기 위해 마련된 항목입니다.<br>더 자세한 기재 사항은 <a href="../../scenariohome/overview/#shinario">이 페이지</a>를 참고해 주세요.</td><td><p>·클로즈드형 머더 미스터리</p><p>·오픈형 머더 미스터리</p><p>·스토리 플레이잉 요소가 강함</p><p>·상급자(초급자, 중급자) 대상</p><p>·추리(심리전, 롤플레잉) 중시</p><p>·명확한 추리 동선은 없음</p></td></tr><tr><td>주의 사항</td><td>사람에 따라 불쾌하게 느낄 수 있는 묘사가 있거나, 어려워하는 사람이 있을 수 있는 주제를 다루는 경우 등에 사용해 주세요.<br>그 밖의 기재 사항은 <a href="../../scenariohome/overview/#zhu-yi-shi-xiang">이 페이지</a>를 참고해 주세요.</td><td>·호러 묘사 있음<br>·고어 묘사 있음<br>·메리 배드 엔딩 있음<br>·캐릭터 사망 가능성 있음<br>·특수한 진행 있음</td></tr><tr><td>줄거리</td><td>앱의 시나리오 상세 화면에 표시되는 줄거리입니다.<br>어디서 무엇이 일어났는지 쓰면 좋습니다.</td><td>어느 겨울날, 소용돌이관에 모인 4명. 하인의 비명에 잠에서 깨어나 보니, 관의 주인이 살해되어 있었다.</td></tr><tr><td>제작자의 코멘트</td><td>제작자로서의 코멘트나 크레딧이 있으면 기재합니다.</td><td>처음으로 제작하는 머더 미스터리입니다.<br>크레딧<br>·일러스트: ○○님<br>·BGM: □□</td></tr><tr><td>배역의 힌트</td><td>캐릭터 선택 시 표시되는 설명이 필요하다면 기재합니다.</td><td>범인이 아닌 캐릭터, 플레이 감각이 다른 캐릭터가 있는 등</td></tr><tr><td>스트리밍을 허용할지</td><td>체크박스를 이용해 스트리밍을 허용할지 지정해 주세요.</td><td>－</td></tr></tbody></table>
+<table><thead><tr><th width="145">항목</th><th width="308">설명</th><th>예</th></tr></thead><tbody><tr><td>커버 이미지</td><td>16:9의 가로형 이미지를 설정합니다. 자세한 규정은 <a href="../visual-regulation.md">이 페이지</a>를 확인해 주세요.</td><td>－</td></tr><tr><td>제목</td><td>앱 안에서 표시되는 제목입니다.</td><td>소용돌이관의 살인</td></tr><tr><td>장르</td><td>어떤 장르를 원하는 사람에게 가장 플레이해 주었으면 하는지 설정해 주세요.</td><td><p>·머더 미스터리<br>·스토리 플레이잉<br>·수수께끼 풀이</p><p>·미니게임<br>·기타</p></td></tr><tr><td>플레이 시간</td><td><strong>집합부터 해산까지</strong>의 시간입니다. 캐릭터를 고르는 시간과 감상 공유 시간도 조금 포함해 여유 있게 설정해 주세요.</td><td>60분<br>(내용 45분＋여유 15분)</td></tr><tr><td>SNS용 해시태그</td><td><p>주로 시나리오 공유나 이벤트 공지 등 SNS 게시물에서 해시태그(#〇〇)로 사용됩니다. 설정하지 않으면 시나리오 제목이 그대로 사용되므로, 제목이 긴 경우 짧고 기억하기 쉬운 태그를 설정하는 것을 추천합니다.<br>또한 기존 해시태그와 겹치지 않는지 SNS 등에서 검색해 확인한 후 설정해 주세요.</p><p><br>마침표와 쉼표(., ,) 및 일부 기호(!?)는 해시태그가 되지 않습니다.</p></td><td>·うずさつ<br>·소용돌이관의 살인</td></tr><tr><td>시나리오 경향</td><td>머더 미스터리의 다양화에 따라 미스매치를 방지하기 위해 마련된 항목입니다.<br>더 자세한 기재 사항은 <a href="../../scenariohome/overview/#shinario">이 페이지</a>를 참고해 주세요.</td><td><p>·클로즈드형 머더 미스터리</p><p>·오픈형 머더 미스터리</p><p>·스토리 플레이잉 요소가 강함</p><p>·상급자(초급자, 중급자) 대상</p><p>·추리(심리전, 롤플레잉) 중시</p><p>·명확한 추리 동선은 없음</p></td></tr><tr><td>주의 사항</td><td>사람에 따라 불쾌하게 느낄 수 있는 묘사가 있거나, 어려워하는 사람이 있을 수 있는 주제를 다루는 경우 등에 사용해 주세요.<br>그 밖의 기재 사항은 <a href="../../scenariohome/overview/#zhu-yi-shi-xiang">이 페이지</a>를 참고해 주세요.</td><td>·호러 묘사 있음<br>·고어 묘사 있음<br>·메리 배드 엔딩 있음<br>·캐릭터 사망 가능성 있음<br>·특수한 진행 있음</td></tr><tr><td>줄거리</td><td>앱의 시나리오 상세 화면에 표시되는 줄거리입니다.<br>어디서 무엇이 일어났는지 쓰면 좋습니다.</td><td>어느 겨울날, 소용돌이관에 모인 4명. 하인의 비명에 잠에서 깨어나 보니, 관의 주인이 살해되어 있었다.</td></tr><tr><td>제작자의 코멘트</td><td>제작자로서의 코멘트나 크레딧이 있으면 기재합니다.</td><td>처음으로 제작하는 머더 미스터리입니다.<br>크레딧<br>·일러스트: ○○님<br>·BGM: □□</td></tr><tr><td>배역의 힌트</td><td>캐릭터 선택 시 표시되는 설명이 필요하다면 기재합니다.</td><td>범인이 아닌 캐릭터, 플레이 감각이 다른 캐릭터가 있는 등</td></tr><tr><td>스트리밍을 허용할지</td><td>체크박스를 이용해 스트리밍을 허용할지 지정해 주세요.</td><td>－</td></tr></tbody></table>
+
+<figure><img src="../../.gitbook/assets/02 (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 시나리오의 내용을 입력하기
 
 오른쪽 위에 있는 「시나리오 편집」을 클릭해 편집 화면으로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/03 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **편집 화면을 조작할 때의 팁**
@@ -36,7 +40,7 @@
 
 선택한 인원수별 템플릿에 따라 플레이어블 캐릭터가 설정되어 있으므로, 각 캐릭터의 이름과 설명을 기재해 나갑니다.
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/04 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ② 단계「시작하기」를 편집하기
 
@@ -52,15 +56,15 @@
 * 지문(대사 외의 문장)의 읽는 사람을 설정하기
 * 부제목의 「○○」 부분에 캐릭터의 이름을 채워 넣기
 
-자세한 조작 방법과 앱에서의 표시 방식은 [이 페이지](../../basic-features/phase/script.md)를 참고하세요.
+자세한 조작 방법과 앱에서의 표시 방식은 [이 페이지](../../basic-features/phase/basic/script.md)를 참고하세요.
 
 ### ④ 캐릭터 텍스트를 입력하기
 
 왼쪽 메뉴에서 「**텍스트**」로 이동하여, 인원수만큼의 캐릭터 텍스트를 편집합니다.
 
-자세한 조작 방법과 앱에서의 표시 방식은 [이 페이지](../../basic-features/textTab.md)를 참고하세요.
+자세한 조작 방법과 앱에서의 표시 방식은 [이 페이지](../../basic-features/texttab.md)를 참고하세요.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/05 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ⑤ 토론 단계를 설정하기
 
@@ -70,13 +74,15 @@
 
 한쪽 토론이 불필요하다면, 오른쪽 위의 「···」에서 삭제할 수도 있습니다.
 
+<figure><img src="../../.gitbook/assets/06 (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### ⑥ 추가 정보를 입력하기
 
 왼쪽 메뉴에서 텍스트로 돌아가, 「추가 정보」의 내용을 편집합니다.
 
 이 텍스트는 「추가 정보 단계」에 도달하면, 전원에게 공통으로 배포되도록 설정되어 있습니다. 불필요하다면, 오른쪽 위에 있는 「···」 버튼에서 삭제해 주세요.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/07 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ⑦ 투표 선택지를 편집하기
 
@@ -84,7 +90,7 @@
 
 템플릿에서는 「캐릭터1」 「캐릭터2」와 같이 입력되어 있으므로, 올바른 이름으로 변경해 주세요. 「사고」 「자살」 등의 선택지를 늘릴 수도 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/08 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ⑧ 엔딩을 입력하기
 
@@ -106,7 +112,7 @@
 
 편집 마크 아이콘을 클릭하여, 「진상 해설」이나 「후기」를 입력합니다. 「후기」는 불필요하다면 삭제해도 괜찮습니다.
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/09 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 동작 확인과 버전 생성
 
@@ -122,4 +128,4 @@
 
 자세한 내용은 [이 페이지](../../basic-features/new-version.md)를 참고하세요.
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10 (2).png" alt="" width="563"><figcaption></figcaption></figure>
