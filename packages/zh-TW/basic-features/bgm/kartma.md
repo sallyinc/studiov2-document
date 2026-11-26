@@ -18,4 +18,4 @@ description: 此頁面為機器翻譯
 
 文字顏色會自動優化，因此不需要根據模式進行更改。
 
-![](../../images/mode2.png)
+![](../../.gitbook/assets/mode2.png)

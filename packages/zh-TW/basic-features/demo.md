@@ -8,7 +8,7 @@ description: 此頁面為機器翻譯
 
 點擊編輯器畫面右上的「播放按鈕」，會自動檢查是否可以進行動作確認。
 
-![](../images/demo1.png)
+![](../.gitbook/assets/demo1.png)
 
 \\
 
@@ -16,13 +16,13 @@ description: 此頁面為機器翻譯
 
 點擊「**前往相關部分**」，可以直接跳到出錯的地方。
 
-![](../images/demo2.png)
+![](../.gitbook/assets/demo2.png)
 
 \\
 
 如果所有設定都完成，畫面會切換並顯示「**進行動作確認**」，請點擊。
 
-![](../images/demo4.png)
+![](../.gitbook/assets/demo4.png)
 
 \\
 
@@ -30,4 +30,4 @@ description: 此頁面為機器翻譯
 
 BGM和SE也會播放。
 
-![](../images/demo3.png)
+![](../.gitbook/assets/demo3.png)

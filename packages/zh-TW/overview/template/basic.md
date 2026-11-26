@@ -56,13 +56,13 @@
 * 設定旁白（非台詞的文字）的讀者
 * 在副標題的「○○」部分填入角色的名字
 
-詳細的操作方法和應用程式中的顯示方式，請參考[此頁面](../../basic-features/phase/script.md)。
+詳細的操作方法和應用程式中的顯示方式，請參考[此頁面](../../basic-features/phase/basic/script.md)。
 
 ### ④輸入角色文本
 
 從左側菜單移動到「**文本**」，加入與人數相符的角色文本。
 
-詳細的操作方法和應用程式中的顯示方式，請參考[此頁面](../../basic-features/textTab.md)。
+詳細的操作方法和應用程式中的顯示方式，請參考[此頁面](../../basic-features/texttab.md)。
 
 <figure><img src="../../.gitbook/assets/images-temp4.png" alt=""><figcaption></figcaption></figure>
 

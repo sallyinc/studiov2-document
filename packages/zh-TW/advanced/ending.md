@@ -18,7 +18,7 @@ description: 此頁面為機器翻譯
 
 階段的內容可以自由設定。
 
-![](../images/end1.png)
+![](../.gitbook/assets/end1.png)
 
 \\
 
@@ -26,7 +26,7 @@ description: 此頁面為機器翻譯
 
 從階段列表畫面中進入「設定階段進行」，將①中新增的階段插入到「感想戰畫面」的前一個。
 
-![](../images/end2.png)
+![](../.gitbook/assets/end2.png)
 
 \\
 

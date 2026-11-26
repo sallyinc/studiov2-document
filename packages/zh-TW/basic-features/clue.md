@@ -8,7 +8,7 @@ description: 此頁面為機器翻譯
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-![](../images/clue1.png)
+![](../.gitbook/assets/clue1.png)
 
 ## 基本項目
 
@@ -76,7 +76,7 @@ description: 此頁面為機器翻譯
 
 在高級條件設定中，不僅可以將階段，還可以將投票結果、線索狀況、房間等作為條件組合。
 
-![](../images/clue8.png)
+![](../.gitbook/assets/clue8.png)
 
 ## 動作
 

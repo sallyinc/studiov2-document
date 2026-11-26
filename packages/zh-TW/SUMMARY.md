@@ -40,18 +40,18 @@
 
 ## 各功能詳細 <a href="#basic-features" id="basic-features"></a>
 
-* [角色](basic-features/character.md)
+* [角色](basic-features/character/README.md)
   * [角色的基本項目](basic-features/character/basic.md)
   * [目標](basic-features/character/mission.md)
   * [重玩專用角色](basic-features/character/second-play-character.md)
-* [階段](basic-features/phase.md)
-  * [階段的創建・概述](basic-features/phase/basic.md)
-    * [基本階段](basic-features/phase/discussion.md)
-    * [小劇場階段](basic-features/phase/script.md)
-    * [投票階段](basic-features/phase/select.md)
-    * [顯示遊戲流程階段](basic-features/phase/timeline.md)
+* [階段](basic-features/phase/README.md)
+  * [階段的創建・概述](basic-features/phase/basic/README.md)
+    * [基本階段](basic-features/phase/basic/discussion.md)
+    * [小劇場階段](basic-features/phase/basic/script.md)
+    * [投票階段](basic-features/phase/basic/select.md)
+    * [顯示遊戲流程階段](basic-features/phase/basic/timeline.md)
   * [階段進行](basic-features/phase/flow.md)
-* [文本](basic-features/textTab.md)
+* [文本](basic-features/texttab.md)
 * [房間](basic-features/room.md)
 * [感想戰畫面](basic-features/result.md)
 * [線索](basic-features/clue.md)
@@ -59,11 +59,11 @@
 * [代幣](basic-features/tkun.md)
 * [自由記述](basic-features/zi-you-ji-shu.md)
 * [行動](basic-features/action.md)
-* [演出](basic-features/bgm.md)
+* [演出](basic-features/bgm/README.md)
   * [背景音樂](basic-features/bgm/bgm.md)
   * [音效・旁白](basic-features/bgm/senarshon.md)
   * [影片](basic-features/bgm/movie.md)
-  * [背景圖片](basic-features/background.md)
+  * [背景圖片](basic-features/bgm/background.md)
   * [色彩主題](basic-features/bgm/kartma.md)
 * [全體共通：條件設定](basic-features/condition.md)
 * [右上按鈕：動作確認](basic-features/demo.md)
@@ -89,5 +89,5 @@
 
 ## 常見問題 <a href="#qanda" id="qanda"></a>
 
-* [常見問題](QandA.md)
-* [常見問題：v1→v2 遷移](QandA-v1-v2.md)
+* [常見問題](qanda/qanda.md)
+* [常見問題：v1→v2 遷移](qanda/qanda-v1-v2.md)

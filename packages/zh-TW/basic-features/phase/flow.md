@@ -20,7 +20,7 @@ description: 此頁面為機器翻譯
 
 ※如果您使用智能手機瀏覽，請橫向持手機以顯示左半部分。
 
-![](../../images/flow.gif)
+![](../../.gitbook/assets/flow.gif)
 
 \\
 
@@ -41,10 +41,10 @@ description: 此頁面為機器翻譯
 
 設定或刪除遷移條件時，請按「・・・」。
 
-![](../../images/flow2.png)
+![](../../.gitbook/assets/flow2.png)
 
 分支條件中也可以使用「且」和「或」的複合（嵌套）。詳情請參閱[這裡](../condition.md#gurpu)。
 
 ## 常見問題
 
-關於階段進行的常見問題請參閱[這裡](../../QandA.md#phases)
+關於階段進行的常見問題請參閱[這裡](../../qanda/qanda.md#phases)

@@ -40,7 +40,7 @@
 3. 從畫面底部的「未設定流程階段」中拖曳相關階段至所新增的流程內
 4. 將新增的流程拖曳到正確位置
 
-詳細說明請參考[這個頁面](../../basic-features/phase/timeline.md)。
+詳細說明請參考[這個頁面](../../basic-features/phase/basic/timeline.md)。
 
 <figure><img src="../../.gitbook/assets/images-temp2-4.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@
 
 ## 新增文本
 
-請參考[這個頁面](../../basic-features/textTab.md)。
+請參考[這個頁面](../../basic-features/texttab.md)。
 
 ## 分發線索
 
@@ -78,4 +78,4 @@
 
 ## 設定背景音樂
 
-請參考[這個頁面](../../basic-features/bgm.md)。
+請參考[這個頁面](../../basic-features/bgm/)。

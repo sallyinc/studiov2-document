@@ -10,7 +10,7 @@ description: 此頁面為機器翻譯
 
 按下**右上角的按鈕**，將自動進行錯誤檢查，以確認是否可以創建新版本。
 
-![](../images/submit1.png)
+![](../.gitbook/assets/submit1.png)
 
 ## 錯誤檢查和修正
 
@@ -18,7 +18,7 @@ description: 此頁面為機器翻譯
 
 點擊「**前往該處**」，可以直接跳轉到出錯的位置。
 
-![](../images/demo2.png)
+![](../.gitbook/assets/demo2.png)
 
 \\
 
@@ -26,7 +26,7 @@ description: 此頁面為機器翻譯
 
 輸入欄是為了方便之後確認所修正內容的個人備忘欄。只有作者能看到，因此可以自由填寫。此外，即使留空也沒有問題。
 
-![](../images/submit4.png)
+![](../.gitbook/assets/submit4.png)
 
 #### ※什麼是最新版本？
 
