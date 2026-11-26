@@ -12,7 +12,7 @@ description: 画面全体をマップや盤面にし、画像タップによる�
 
 フェーズ一覧の右上「＋フェーズを追加」から「探索」を選択して新規作成します。
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (235).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (341).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
@@ -30,7 +30,7 @@ description: 画面全体をマップや盤面にし、画像タップによる�
 
 1階と2階など、探索のための移動先がある場合は「条件付き背景」で設定できます。詳細は後述しますが、以下の例では「階移動トークンが2」のときに2階の背景画像を表示する設定になっています。
 
-<figure><img src="../../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +44,7 @@ ONにしてあっても、プレイ中に**黒地に白の矢印ボタン**を�
 
 また、タイトルカードをOFFにすると、フェーズタイトルがなくなってしまい、他の編集画面でフェーズの指定ができなくなるため、**管理名の入力**が必須になります。
 
-<figure><img src="../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -56,14 +56,14 @@ ONにしてあっても、プレイ中に**黒地に白の矢印ボタン**を�
 
 ただの画像として設置したいときは、**押しても何も起こらないダミーアクション**を作っておき、それと紐づけるとよいでしょう。
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (239).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (345).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
 以下は、「部屋A」に置いた「薬」の画像に「部屋Aを調査する山札」を紐づけている例です。\
 画像の位置調整・拡大・縮小は、**左の画面上で直感的に操作**する方法と、**右のメニュー上で数字で指定**する方法があります。
 
-<figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -73,7 +73,7 @@ ONにしてあっても、プレイ中に**黒地に白の矢印ボタン**を�
 
 画像右端にある「ペンキマーク」を押すと編集画面が開きます。そこで「非活性時の表示」を設定すると、以下の例のように「調査後は白黒」という表示にすることができます。
 
-<figure><img src="../../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@ ONにしてあっても、プレイ中に**黒地に白の矢印ボタン**を�
 * 2種類のオブジェクトを重ねるのをやめ、1つのオブジェクトの「条件付き画像」で画像を出し分ける
 * そのオブジェクトに紐づくアクションボタンの「結果アクション」に条件をかけ、調査の進行状態（オブジェクトの画像の表示状態）に合わせて結果が変わるように設定する
 
-<figure><img src="../../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -109,11 +109,11 @@ ONにしてあっても、プレイ中に**黒地に白の矢印ボタン**を�
 
 と設定することで、1階にいるときだけ「2階に行く」ボタンが押せて2階の画像に切り替わる　という状態を実現しています。
 
-<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
 背景画像（2階）の表示条件を以下のようにすると、「全員一緒に移動」ではなく、「2階に行く を押した人だけが移動」という個別移動状態にすることができます。
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (243).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (349).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 

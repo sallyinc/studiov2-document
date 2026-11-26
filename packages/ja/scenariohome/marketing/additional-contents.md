@@ -12,7 +12,7 @@ description: プレイヤー向けにシナリオ外（遊ぶ前後）で配布�
 
 プレイ前に自分で「未プレイ」ボタンを「プレイ済み」に変えると事前に閲覧もできるため、GM資料の配布にも適しています。
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 **トップ画像（横長16:9）**\
 デフォルト画像のままの販売はNGです。ご自身で作成した画像をアップロードしてください。
@@ -41,21 +41,21 @@ description: プレイヤー向けにシナリオ外（遊ぶ前後）で配布�
 
 有料で公開する際は「ウズ追加コンテンツ有償公開規約」をご一読ください。売り上げを受け取る人全員が規約に同意していなければ公開できません。
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 共作の場合の売り上げの分配設定は「メンバー」画面から行います。
 
 追加コンテンツの種類ごとに分配率を設定することはできず、全て一括での分配率設定になります。
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 ### アプリ内での表示 <a href="#display" id="display"></a>
 
 追加コンテンツのアプリ側での見え方は以下のようになります。v3.50.0以上にアップデートしている端末で確認できます。
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 

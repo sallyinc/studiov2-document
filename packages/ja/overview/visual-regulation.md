@@ -6,9 +6,9 @@
 
 16:9以外で作成されたキービジュアルは、アプリ内で正しく表示されません。
 
-<figure><img src="../.gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (36).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## ②タイトルが読みやすいコントラストにすること <a href="#contrast" id="contrast"></a>
 
@@ -19,7 +19,7 @@
 「対比」のこと。キービジュアルにおいては、明度・彩度・色相の差のこと。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 ### 改善方法
 
@@ -38,14 +38,14 @@
 
 それが「**ハレーション**」です。
 
-<img src="../.gitbook/assets/image (38).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (99).png" alt="" data-size="original">
 
 ハレーションとは配色の「明度」が近く、かつ「彩度」が高いと起きる目がチカチカしてしまう状態のことを指します。非常に視認性が悪いデザインになってしまうので、この状態も避けられると理想的です。
 {% endhint %}
 
 ## ③サイズを縮小してもタイトル（主題）が読めること <a href="#size" id="size"></a>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 改善方法
 
@@ -57,13 +57,13 @@
 ウズアプリのシナリオ一覧画面上では「160px ✕ 90px」で表示されます。リリース管理画面に小さく表示されるキービジュアルで、読めるかどうか確認すると分かりやすいです↓
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## ④シナリオ詳細に表示するタイトルは画像内に全文入れること <a href="#title" id="title"></a>
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 タイトル以外の文字を入れる場合は、タイトルの文字が最も目立つフォントサイズになっているようにしてください。
 

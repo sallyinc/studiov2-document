@@ -6,7 +6,7 @@
 
 **右上のボタン**を押すと、新しいバージョンが作成できるかどうかのエラーチェックが自動でおこなわれます。
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 ## エラーチェックと修正
 
@@ -32,4 +32,4 @@ v2では、v1に比べて自由度が高くなった分、設定箇所や考慮�
 
 リリース管理画面から「**最新版をリリース**」を押すと、一般ユーザーも遊べるバージョンとしてアプリ上にリリースされます。v1→v2移行作品では**移行申請が承認されるまで「最新版をリリース」は押せない**ようになっています。
 
-バージョンを管理する「リリース管理」画面については、[こちら](../../../scenariohome/release.md)で解説しています。
+バージョンを管理する「リリース管理」画面については、[こちら](../scenariohome/release.md)で解説しています。

@@ -11,7 +11,7 @@ description: シナリオコレクション機能では、シリーズ作品や�
 **①左メニューにある「新規コレクション」をクリックします。**
 
 **②コレクションタイトル**（アプリ内の検索でヒットする）**・説明文を入力し、入れたい作品を追加します。**\
-&#xNAN;**※追加できるのは自分が管理者となっている作品だけです。**
+**※追加できるのは自分が管理者となっている作品だけです。**
 
 {% hint style="warning" %}
 **注意事項**
@@ -23,7 +23,7 @@ description: シナリオコレクション機能では、シリーズ作品や�
 既に使用されているコレクション名を入力しようとするとエラーが出るようになる予定です。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 ## アプリでの見た目 <a href="#display" id="display"></a>
 
@@ -33,7 +33,7 @@ description: シナリオコレクション機能では、シリーズ作品や�
 
 ウズスタジオのコレクション**編集画面での順番に関係なく、作品はリリース順に並びます**。
 
-<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 ## 関連シナリオ機能との使い分け <a href="#rule" id="rule"></a>
 

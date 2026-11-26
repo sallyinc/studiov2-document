@@ -2,7 +2,7 @@
 
 ウズスタジオの「シナリオ概要」画面では、アプリ内のイベント一覧・シナリオ一覧・検索で絞り込み要素として利用される「**ジャンル**」を設定することができます。
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
 
 
 

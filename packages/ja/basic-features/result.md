@@ -2,7 +2,7 @@
 
 感想戦画面とは、議論・投票・エンディングなど全てが終わった後に表示される解説・結果画面です。
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 ## タブの内容
 
@@ -10,11 +10,11 @@
 
 タブの内容はそれぞれのタブの右上をクリックすると編集できます。
 
-<div align="left"><figure><img src="../.gitbook/assets/image (94).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (155).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 アプリ上の画面との対応は以下の通りです。
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@
 
 基本的に「基本タイトル」の部分のみ記載しておけば問題はないですが、「条件付きエンディングタイトルを追加」を押すと複雑な出し分けを行うことができます。
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 ### タブの並び替え
 
@@ -50,4 +50,4 @@
 
 タブ一覧の一番右にある「未取得の手がかり一覧」というタブのトグルをonにすると、感想戦のタブ一覧の最後に、そのイベントで誰にも取得されなかった手がかりの一覧が表示されます。
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>

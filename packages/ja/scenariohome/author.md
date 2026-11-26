@@ -2,7 +2,7 @@
 
 メンバー管理画面では、共同制作者・閲覧者の追加や売り上げの分配率の設定ができます。
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -14,7 +14,7 @@
 
 ③権限設定をします。
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 ## 作家として表示 <a href="#display" id="display"></a>
 
@@ -25,7 +25,7 @@
 ※作家名の確認方法\
 ウズスタジオにログイン済み かつ 作家プロフィールの編集が完了していると、アプリ内のサイドメニューに「作家ページ」というボタンが現れるようになっています（アプリとウズスタジオへ同じアカウントでログインしている前提）。作家ページボタンを押すと、自分の作家名が確認できます。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="456"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt="" width="456"><figcaption></figcaption></figure>
 
 ## プレイ料金分配率 <a href="#rate1" id="rate1"></a>
 
@@ -58,4 +58,4 @@
 
 規約への同意は制作シナリオ一覧画面の右上のアイコンから行ってください。売り上げを受け取る人全員が規約に同意している必要があります。
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 ### 1．審査提出\_制作者
 
-ウズスタジオの「[リリース管理](../../../../../scenariohome/release.md)」画面にある「本公開申請」というボタンをクリックすると、審査提出フォームが開きます。「有料でのリリースを希望する」で「はい」を選択し、必要事項を記入して送信してください。
+ウズスタジオの「[リリース管理](../../../scenariohome/release.md)」画面にある「本公開申請」というボタンをクリックすると、審査提出フォームが開きます。「有料でのリリースを希望する」で「はい」を選択し、必要事項を記入して送信してください。
 
 ### 2．事前確認\_ウズスタジオ編集部
 
@@ -63,7 +63,7 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 事前に確認したい場合は、リリース管理画面の「アプリ掲載申請」を押し、有料リリースを選んで先に進んでいただくと閲覧できます。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ### 印税率
 
@@ -145,13 +145,13 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 テストプレイ期間中にGoogle Formで収集したアンケート結果をGoogle スプレッドシート形式にして、ご提出いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2．作品のポイント
 
 シナリオを制作するにあたってこだわった部分、キャラクターそれぞれの見せ場や面白さについて、ご回答いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 3．希望価格・希望タグ
 
@@ -163,7 +163,7 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 再提出が必要な場合は、初回の審査返却時にフィードバックとして、修正が必要と考えられる部分をお送りしますので、それをベースに修正・調整をしていただき、フォームの再提出欄にご記入いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -204,7 +204,7 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 審査提出フォームから有料公開希望(**一番上：はい**)を選択し、詳細審査に提出してください。
 
-<img src="../../../.gitbook/assets/image (10) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (71).png" alt="" data-size="original">
 
 
 
