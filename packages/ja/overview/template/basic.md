@@ -10,7 +10,7 @@
 
 ④「この内容で作成」をクリックする。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,13 +24,13 @@
 
 <table><thead><tr><th width="145">項目</th><th width="308">説明</th><th>例</th></tr></thead><tbody><tr><td>カバー画像</td><td>16:9の横長画像を設定します。詳細なレギュレーションについては、<a href="../visual-regulation.md">こちらのページ</a>をご確認ください。</td><td>－</td></tr><tr><td>タイトル</td><td>アプリ内で表示されるタイトルです。</td><td>渦巻館の殺人</td></tr><tr><td>ふりがな</td><td><p>アプリのシナリオ詳細画面でタイトルの下に表示されます。</p><p><strong>ひらがな</strong>のみ入力できます。</p></td><td>うずまきかんのさつじん</td></tr><tr><td>ジャンル</td><td>どのジャンルを求めている人に最も遊んでほしいかを設定してください。</td><td><p>・マーダーミステリー<br>・ストーリープレイング<br>・謎解き</p><p>・ミニゲーム<br>・その他</p></td></tr><tr><td>プレイ時間</td><td><strong>集合から解散まで</strong>の時間です。キャラクターを選ぶ時間や感想戦の時間も少し含め、余裕をもって設定してください。</td><td>60分<br>（中身45分＋余裕15分）</td></tr><tr><td>短縮タイトル</td><td><p>アプリ内のおさそい文や感想投稿時のハッシュタグに使われます。</p><p>タイトルそのままでもかまいません。</p><p><br>句点や読点（。、）や一部の記号（！？）はハッシュタグになりません。</p></td><td>・うずさつ<br>・渦巻館の殺人</td></tr><tr><td>シナリオ傾向</td><td>マダミスの多様化に伴い、ミスマッチを防ぐ主旨で設置しています。<br>より詳細な記入事項については、<a href="../../scenariohome/overview/#shinario">こちらのページ</a>をご参照ください。</td><td><p>・クローズ型マーダーミステリー</p><p>・オープン型マーダーミステリー</p><p>・ストーリープレイング要素が強い</p><p>・上級者（初心者、中級者）向け</p><p>・推理（駆け引き、ロールプレイ）重視</p><p>・明確な推理導線はない</p></td></tr><tr><td>注意事項</td><td>人によっては不快に感じる可能性のある描写が存在する場合や苦手な人もいるテーマを扱っている場合などにご利用ください。<br>その他の記入事項については、<a href="../../scenariohome/overview/#zhu-yi-shi-xiang">こちらのページ</a>をご参照ください。</td><td>・ホラー描写あり<br>・グロ描写あり<br>・メリーバッドエンドあり<br>・キャラクターの死亡の可能性あり<br>・特殊な進行あり</td></tr><tr><td>あらすじ</td><td>アプリのシナリオ詳細画面に表示されるあらすじです。<br>どこで何が起きたかを書くとよいでしょう。</td><td>ある冬の日、渦巻館に集まった４人。使用人の悲鳴で目を覚ますと、館の主人が殺されていた。</td></tr><tr><td>制作者のコメント</td><td>制作者としてのコメントやクレジットがあれば記載します。</td><td>初めて制作するマダミスです。<br>クレジット<br>・イラスト：○○さん<br>・BGM：□□</td></tr><tr><td>配役のヒント</td><td>キャラクター選択時に表示される説明が必要であれば記載します。</td><td>犯人ではないキャラクター、プレイ感が他とは異なるキャラクターがいるなど</td></tr><tr><td>配信を許可するか</td><td>チェックボックスを利用して配信を許可するかどうかについて指定してください。</td><td>－</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 ## シナリオの中身を入力する <a href="#contents" id="contents"></a>
 
 右上にある「シナリオを編集」をクリックして編集画面へ移動します。
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **編集画面を操作する際のポイント**
@@ -44,7 +44,7 @@
 
 選択した人数別テンプレートの通りに、プレイアブルキャラクターが設定されていますので、それぞれの名前や説明を記入していきます。
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 ### ②フェーズ「はじめに」を編集する <a href="#id-02" id="id-02"></a>
 
@@ -60,15 +60,15 @@
 * 地の文（セリフ以外の文章）の読み手を設定する
 * サブタイトルの「○○」部分にキャラクターの名前を埋める
 
-詳細な操作方法やアプリでの見え方については、[こちらのページ](../../basic-features/phase/script.md)をご覧ください。
+詳細な操作方法やアプリでの見え方については、[こちらのページ](../../basic-features/phase/basic/script.md)をご覧ください。
 
 ### ④キャラクターテキストを入力する <a href="#id-04" id="id-04"></a>
 
 左メニューから「**テキスト**」に移動し、人数分のキャラクターテキストを編集します。
 
-詳細な操作方法やアプリでの見え方については、[こちらのページ](../../../../basic-features/textTab.md)をご覧ください。
+詳細な操作方法やアプリでの見え方については、[こちらのページ](../../basic-features/texttab.md)をご覧ください。
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ### ⑤議論フェーズの設定をする <a href="#id-05" id="id-05"></a>
 
@@ -78,7 +78,7 @@
 
 一方の議論が不要であれば、右上の「・・・」から削除することもできます。
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (92).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ⑥追加情報を入力する <a href="#id-06" id="id-06"></a>
 
@@ -86,7 +86,7 @@
 
 このテキストは「追加情報フェーズ」に辿り着くと、全員に共通で配布される設定になっています。不要であれば、右上にある「・・・」ボタンから削除してください。
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (91).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ⑦投票選択肢を編集する <a href="#id-07" id="id-07"></a>
 
@@ -94,7 +94,7 @@
 
 テンプレートでは「キャラ1」「キャラ2」のように入力されているので、正しい名前に変更してください。「事故」「自殺」等の選択肢を増やすこともできます。
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 ### ⑧エンディングを入力する <a href="#id-08" id="id-08"></a>
 
@@ -116,7 +116,7 @@
 
 編集マークアイコンをクリックして、「真相解説」や「あとがき」を入力します。「あとがき」については不要であれば、削除してもかまいません。
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
 ## 動作確認とバージョン作成 <a href="#play-screen" id="play-screen"></a>
 
@@ -124,7 +124,7 @@
 
 右上の再生マークをクリックすると、実際のアプリと同じ画面を見ながら動作確認をすることができます。
 
-詳細は[こちらのページ](../../../../basic-features/demo.md)をご覧ください。
+詳細は[こちらのページ](../../basic-features/demo.md)をご覧ください。
 
 ### ②最新バージョンの作成 <a href="#id-2" id="id-2"></a>
 
@@ -132,4 +132,4 @@
 
 詳細は[こちらのページ](../../basic-features/new-version.md)をご覧ください。
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>

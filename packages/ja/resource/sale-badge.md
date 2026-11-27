@@ -26,5 +26,5 @@ hidden: true
 
 セールを行う場合、セールの終了期限をシナリオ説明などに記載してください。
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 

@@ -12,7 +12,7 @@
 
 **②作家プロフィール編集を選択**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 **③作家プロフィールを変更して保存**
 
@@ -24,7 +24,7 @@
 * 紹介文
 * リンク
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@
 
 作家ページからはリリースしたシナリオの一覧、大好き数の合計が確認できます。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (236).png" alt="" width="262"><figcaption></figcaption></figure>
 
 
 
@@ -45,5 +45,5 @@
 
 したがって、プレイ用のアカウントとは別でIDを取得して**作者用のダミーアカウントを作る必要はございません**。
 
-<figure><img src="../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 

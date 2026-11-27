@@ -6,5 +6,4 @@
 
 特に有料公開作品では、一人でも規約への同意ボタンを押していないと運営側でプレイ料金の設定ができませんので、ご注意ください。
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>

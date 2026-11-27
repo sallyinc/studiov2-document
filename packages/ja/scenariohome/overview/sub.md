@@ -2,7 +2,7 @@
 
 カバー画像ではキービジュアル1枚、サブ画像を最大9枚まで設定することができます。
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (253).png" alt="" width="563"><figcaption></figcaption></figure>
 
 サブ画像は以下のルールに従って設定してください。
 

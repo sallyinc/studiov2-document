@@ -2,7 +2,7 @@
 
 手がかりでは、ゲーム中にやり取りする手がかりの設定や編集ができます。
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/clue1.png)
 
@@ -12,11 +12,11 @@
 
 対応は以下の通りです。
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 **タグ**はプレイ中に実行できる絞り込み検索にも関係しています。
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@
 
 所有者以外の画面に表示されるのは「非公開時のタイトル」と「タグ」だけであり、手がかりの詳細は開示されません。
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -57,7 +57,7 @@
 
 結果アクションは**上から「所有権（閲覧権）」→「通知を送信」**&#x3068;しなければなりません。**上下が逆になっていると**、通知を送信するタイミングではまだ手がかりの所有権（閲覧権）が与えられておらず、**表示できる手がかりがなくなってしまう**ためです。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -103,6 +103,6 @@
 
 ## 応用
 
-投票フェーズと手がかりを組み合わせた調査フェーズをシナリオに組み込みたい場合は[こちらのページ](../../../advanced/investigation.md)をご参照ください。
+投票フェーズと手がかりを組み合わせた調査フェーズをシナリオに組み込みたい場合は[こちらのページ](../advanced/investigation.md)をご参照ください。
 
-また、山札調査については[こちらのページ](../../../basic-features/decks.md)で説明しています。
+また、山札調査については[こちらのページ](decks.md)で説明しています。

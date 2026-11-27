@@ -2,7 +2,7 @@
 
 作品概要では、アプリ内でプレイ前に公開される情報を設定します。
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## カバー画像 <a href="#visual" id="visual"></a>
 
@@ -252,7 +252,7 @@
 
 アプリ内では以下のように表示されます。
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (160).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ## 配信を許可するか <a href="#stream" id="stream"></a>
 

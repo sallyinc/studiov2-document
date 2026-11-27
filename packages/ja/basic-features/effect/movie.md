@@ -12,4 +12,4 @@ mp4形式の動画をアップロードできます。※10MBを超えるもの�
 **アクション設定画面**\
 アクションを実行したら再生されるように設定できます。ムービーのスキップボタンをプレイヤーに表示するかを選べます。
 
-<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>

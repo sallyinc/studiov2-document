@@ -5,7 +5,7 @@
 
 ウズスタジオでの設定はとても簡単！ キャラクター編集画面の右上にある「特殊キャラクター」にチェックを入れて、種別を選択するだけです。
 
-<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
 
 ## 周回プレイ機能の詳細
 

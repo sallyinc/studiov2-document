@@ -10,11 +10,7 @@ description: 音声ファイルの音量自体を調整する
 
 以下のような画面になります。
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-05-07 19.33.14.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/スクリーンショット 2024-05-07 19.33.14.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### ②音量を調整したい音声ファイルの音量を調整する
 
@@ -22,7 +18,7 @@ description: 音声ファイルの音量自体を調整する
 
 音量を変更すると、▶︎ボタンで変更した音量での試聴が出来ます。
 
-<figure><img src="../.gitbook/assets/image (133).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (239).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ③変更を適用する
 

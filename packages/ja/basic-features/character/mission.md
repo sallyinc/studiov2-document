@@ -22,4 +22,4 @@
 
 点数配分を0点にしているミッションは、達成/未達成として、感想戦画面にて点数表記なしで表示されます。
 
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>

@@ -16,7 +16,7 @@
 
 ※スマートフォンで閲覧している場合、横持ちにしないと右半分が表示されません。<br>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,10 +37,10 @@
 
 遷移の条件を設定したり、削除したりするときは「・・・」を押してください。<br>
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
 分岐条件に「かつ」と「または」の複合（入れ子）を使用することもできます。詳しくは[こちら](../condition.md#gurpu)をご覧ください。
 
 ## よくある質問
 
-フェーズ進行に関するよくある質問は[こちら](../../../../QandA.md#phases)
+フェーズ進行に関するよくある質問は[こちら](../../qanda/qanda.md#phases)

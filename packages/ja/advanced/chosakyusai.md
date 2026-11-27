@@ -8,7 +8,7 @@
 
 難易度：低
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 ①調査の説明や山札などを設置した調査フェーズを作成します。
 
@@ -20,7 +20,7 @@
 
 難易度：中～高
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 ①調査の説明や山札などを設置した調査フェーズを作成します。
 
@@ -32,4 +32,4 @@
 
 ⑤救済フェーズに行く条件として、「調査が終わっていないとき（手がかりを持っていない・数値カウント：誰かのトークンが１以上など）」を設定すれば完了です。
 
-<figure><img src="../.gitbook/assets/image (80).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -12,13 +12,13 @@
 
 **右上の再生ボタンをクリック**すると「動作確認」の画面に移動します。
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 動作確認では、アプリとほぼ同じ画面でシナリオを最初から最後まで通して見ることができます。
 
 プレイヤーの人数分、スマートフォンを想定した画面が並んで表示されるので、１人で全員分を操作していくイメージです。BGMやSEも流れます。
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 動作確認では、以下のようなミスがないか確認しておくとよいでしょう。
 
@@ -42,7 +42,7 @@
 
 入力や設定に漏れがなければ、反映が進行しますが、入力や設定ができていない箇所があると、エラーが表示されます。エラーが表示されたら、提示されている場所を確認し、適宜修正を行ってください。
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 #### ②バージョンメモを入力する <a href="#id-02" id="id-02"></a>
 
@@ -60,12 +60,14 @@
 
 #### **①リリース管理画面でURLまたは作品IDをコピー** <a href="#event01" id="event01"></a>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 #### **②共有** <a href="#event02" id="event02"></a>
 
 　**URLの場合：スマートフォン等にURLを送る**\
 　**作品IDの場合：ウズアプリを開く**
+
+※リリース前のシナリオに誰でもアクセスできてしまう状態が2026年11月に改善され、リリース前はURLを開くと404と表示されるようになりました。
 
 #### **③開き方** <a href="#event03" id="event03"></a>
 
@@ -75,7 +77,7 @@
 * 左上のアイコンをタップし、出てきたメニューバーから「ID検索」→「シナリオを検索」とタップしてください。
 * シナリオ検索画面が出てくるので、①でコピーしたシナリオIDをペーストします。
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 #### ④**シナリオ詳細画面が出てくる** <a href="#event04" id="event04"></a>
 
@@ -85,7 +87,7 @@
 * 「イベント予定を作成」を選び、「**イベント設定へ**」進みます
 * 「**観戦を許可する**」がONになっているのを確認し、自分の参加枠で「**観戦者**」を選びます
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 #### ⑥**共有用リンクを取得する** <a href="#event06" id="event06"></a>
 

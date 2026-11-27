@@ -18,7 +18,7 @@
 
 「誰か」には、「特定の誰か」と「誰でも」の2種類があります。
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
 #### **特定の誰か**
 
@@ -28,7 +28,7 @@
 
 また、「特定の誰かが」から始まる条件を、同じボックス内で複数使った場合は、同じ人が複数の行動したときのみ条件を満たすことになります。
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -46,5 +46,5 @@
 
 現状、条件グループは３段階まで設定できます。
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 

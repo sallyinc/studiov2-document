@@ -12,7 +12,7 @@
 
 自由記述ボックスの新規作成は、「自由記述の編集画面」または「フェーズ編集画面」から可能です。
 
-<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@
 
 自由記述には、文字を入力・削除できる「入力ボックス」と、入力された結果を閲覧するだけの「結果表示ボックス」があります。
 
-<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 | 入力ボックス                                                                 | 結果表示ボックス                                                                               |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@
 | <p>基本フェーズ*にしか設置できません。<br><br>*読み合わせ・ゲームの流れ・探索フェーズ以外の一般的なフェーズのこと</p>    | <p>・基本フェーズ／探索フェーズ<br>・テキスト<br>・手がかり<br>・感想戦画面<br>に設置できます。</p>                          |
 | <p>各プレイヤーには自身の入力内容しか見えません。<br>Aさん用・Bさん用に分ける必要はなく、基本的に表示条件も不要です。</p>    | <p>【どの自由記述】の【誰】の回答を表示するか、という指定が必要です。<br>他のキャラクターに見えてはいけない記述結果の場合は、表示条件をかける必要があります。</p> |
 
-<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -38,13 +38,13 @@
 
 メモ欄としての自由記述ボックスを１つ新規作成し、テキスト読み込みフェーズや議論フェーズに共通の**入力ボックス**を設置します。
 
-<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
 
 
 
 入力ボックスを設置していないフェーズや読み合わせフェーズでは見返せなくなるため、別途テキストに**結果表示ボックス**を設置するのがオススメです。
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -54,7 +54,7 @@
 
 例えば「キャラ１：マダミ」が動機を記述式で回答し、その正誤判定を「キャラ２：ミスオ」が行う場合の設定例は以下のようになります。
 
-<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,7 +64,7 @@
 
 入力内容の更新通知は自動では送られないため、[シンプルアクション](action.md#shinpuruakushonno)を利用して、通知を送信できる設定にするのがオススメです。以下の例では、メッセージが手がかりとして送られてくる形になっていますが、フェーズに結果を直接表示してもよいでしょう。
 
-<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
 
 
