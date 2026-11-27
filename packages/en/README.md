@@ -2,6 +2,6 @@
 
 This is the official guide for the Murder Mystery creation tool "Uzu Studio."
 
-It explains **how to use Uzu Studio** and the **process of publishing your work on Uzu**.
+It explains **how to use Uzu Studio** and the **process of publishing your work on Uzu**.&#x20;
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt="Uzu Studio Official Guide"><figcaption></figcaption></figure>
