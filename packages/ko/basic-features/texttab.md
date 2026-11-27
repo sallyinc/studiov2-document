@@ -18,7 +18,7 @@
 
 <figure><img src="../.gitbook/assets/03 (35).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## 텍스트 그룹
+## 텍스트 그룹 <a href="#tekisutogurpu" id="tekisutogurpu"></a>
 
 텍스트를 종류별로 알기 쉽게 묶는 기능입니다.
 

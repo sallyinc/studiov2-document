@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/01 (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
-본인 확인을 위해 성명·이메일 주소·생년월일·계좌 정보가 필요합니다.&#x20;
+본인 확인을 위해 성명·이메일 주소·생년월일·계좌 정보가 필요합니다. 이체는 은행 이체로 진행됩니다.
 
 ## 입금 신청
 
