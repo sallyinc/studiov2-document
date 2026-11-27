@@ -38,5 +38,6 @@ check_term '자유 기입' '자유 기재'
 check_term '테이블' '방'
 check_term '감상전 화면' '감상 공유 화면'
 check_term '열람권' '열람 권한'
+check_term '객체' '오브젝트'
 
 exit "$status"
