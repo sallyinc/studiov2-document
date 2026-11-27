@@ -2,7 +2,7 @@
 
 멤버 관리 화면에서는 공동 제작자·열람자 추가와 매출 분배율 설정을 할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 멤버 추가
 
@@ -12,7 +12,7 @@
 
 ③ 권한을 설정합니다.
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (12).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 작가로 표시
 
@@ -23,7 +23,7 @@
 ※ 작가명 확인 방법\
 우즈 스튜디오에 로그인되어 있고 작가 프로필 편집을 완료했다면, 앱 안의 사이드 메뉴에 「작가 페이지」 버튼이 나타납니다(앱과 우즈 스튜디오에 같은 계정으로 로그인되어 있다는 전제). 「작가 페이지」 버튼을 누르면 자신의 작가명을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="456"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 (9).png" alt="" width="456"><figcaption></figcaption></figure>
 
 ## 플레이 이용료 분배율
 
@@ -50,8 +50,10 @@
 
 즉,**릴리스 전** 또는 **릴리스한 달 동안** 분배율을 설정해야 합니다. **설정을 하지 않은 채로 달이 넘어가 버린 경우에는 운영에 연락하셔도 대응할 수 없습니다**. 미리 양해 부탁드립니다.
 
+<figure><img src="../.gitbook/assets/04 (7).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## 규약에 동의 <a href="#heno" id="heno"></a>
 
 규약 동의는 제작 시나리오 목록 화면 오른쪽 위 아이콘에서 진행해 주세요. 매출을 받는 모든 사람이 규약에 동의해야 합니다.
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (15).png" alt=""><figcaption></figcaption></figure>

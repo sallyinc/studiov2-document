@@ -2,7 +2,7 @@
 
 커버 이미지에서는 키 비주얼 1장과 서브 이미지를 최대 9장까지 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01 (40).png" alt="" width="563"><figcaption></figcaption></figure>
 
 서브 이미지는 다음 규칙에 따라 설정해 주세요.
 

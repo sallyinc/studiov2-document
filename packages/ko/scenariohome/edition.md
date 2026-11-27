@@ -4,7 +4,7 @@ GM 있음 버전·없음 버전, 플레이 인원수가 다른 버전, 난이도
 
 에디션이 여러 개 있는 시나리오의 앱 내 표시 모습은 다음과 같습니다.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="342"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (16).png" alt="" width="513"><figcaption></figcaption></figure>
 
 ### 에디션 추가
 
@@ -13,6 +13,8 @@ GM 있음 버전·없음 버전, 플레이 인원수가 다른 버전, 난이도
 에디션을 추가한 이후에는 시나리오별 홈 화면 상단에 **에디션 선택 버튼**이 표시됩니다. 「전체」를 누르면 에디션 전체의 관리·편집 화면으로 이동할 수 있습니다.
 
 **에디션명은 앱 안에서도 표시**됩니다. 또한 같은 제목의 시나리오가 여러 개 있으면 관리가 복잡해지므로, **제목에서도 구분**되도록 해 주세요.
+
+<figure><img src="../.gitbook/assets/02 (13).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### **나중에 에디션에 추가하기**
 

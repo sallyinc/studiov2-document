@@ -6,7 +6,7 @@
 
 「누군가」에는, 「특정한 누군가」와 「누구든지」의 2종류가 있습니다.
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (34).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **특정한 누군가**\
 액션의 실행이나 단서의 소유를 조건으로 하고 싶은 경우, 「그 캐릭터」를 사용함으로써, 그 액션을 실행한 사람만, 그 단서를 가지고 있는 사람만 등으로 제한을 걸 수 있습니다.
@@ -15,7 +15,7 @@
 
 또한, 「특정한 누군가가」로 시작하는 조건을, 같은 박스 내에서 복수 사용한 경우에는, 같은 사람이 여러 행동을 했을 때에만 조건을 만족하게 됩니다.
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (26).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **누구든지**
 
@@ -28,3 +28,5 @@
 조건 그룹으로의 변경은, 평소처럼 조건을 추가한 뒤, 조건의 오른쪽 위에 표시되는 「···」에서 행합니다. 「···」를 클릭해도 변경의 제안이 나타나지 않는 곳에서는 조건 그룹을 사용할 수 없습니다.
 
 현재 조건 그룹은 3단계까지 설정할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/03 (20).png" alt="" width="563"><figcaption></figcaption></figure>

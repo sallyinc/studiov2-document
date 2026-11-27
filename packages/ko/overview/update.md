@@ -26,7 +26,7 @@
 
 ### 2025년 10월
 
-* [텍스트 그룹](../basic-features/textTab.md)을 사용할 수 있게 되었습니다
+* [텍스트 그룹](../basic-features/texttab.md)을 사용할 수 있게 되었습니다
 * 지문·대사의 자동 넘김과 읽는 사람의 중간 교대를 할 수 있게 되었습니다
 * [탐색 단계](https://docs.studio.uzu-app.com/basic-features/phase/basic/canvas)를 사용할 수 있게 되었습니다
 

@@ -6,9 +6,9 @@
 
 16:9 이외의 비율로 제작된 키 비주얼은 앱 내에서 올바르게 표시되지 않습니다.
 
-<figure><img src="../.gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (36).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## ② 제목이 읽기 쉬운 대비를 갖도록 할 것
 
@@ -19,7 +19,7 @@
 '대비'를 뜻합니다. 키 비주얼에서는 명도·채도·색상의 차이를 말합니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 개선 방법
 
@@ -45,6 +45,8 @@
 
 ## ③ 크기를 축소해도 제목(주제)을 읽을 수 있을 것
 
+<figure><img src="../.gitbook/assets/05 (6).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### 개선 방법
 
 ▷ 폰트 두께를 굵게 한다
@@ -55,33 +57,15 @@
 우즈 앱의 시나리오 목록 화면에서는 「160px ✕ 90px」으로 표시됩니다. 릴리스 관리 화면에 작게 표시되는 키 비주얼에서, 읽을 수 있는지 확인하면 이해하기 쉽습니다↓
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## ④ 시나리오 상세에 표시되는 제목은 이미지 안에 전문을 모두 넣을 것
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/07 (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 제목 이외의 문자를 넣는 경우에는, 제목 글자가 가장 눈에 띄는 폰트 크기가 되도록 해 주세요.
 
-## ⑤ 후리가나에 대하여
-
-우즈 스튜디오에는 「후리가나 기입란」이 있지만, 이는 앱 내 히라가나 검색을 위한 것이며, 앱 내에서는 후리가나가 표시되지 않습니다.
-
-「후리가나를 제목에 넣는다」 「제목의 읽는 법을 작가 코멘트란에서 보충한다」의 어느 대응도 하지 않는 경우는, 키 비주얼에 후리가나를 포함해 주세요. 후리가나가 필요한 기준은 아래와 같습니다.
-
-{% hint style="info" %}
-① 일반적으로 난독으로 여겨지는 읽기가 포함된 경우
-
-② 여러 가지 읽는 방법이 있는 것
-
-③ 고유명사
-
-④ 당자
-
-⑤ 일반적이지 않은 영어 단어·외국어
-{% endhint %}
-
-## ⑥ 사용 중인 소재가 저작권·퍼블리시티권을 침해하지 않을 것
+## ⑤ 사용 중인 소재가 저작권·퍼블리시티권을 침해하지 않을 것
 
 {% hint style="info" %}
 **저작권이란?**(간단한 설명) 「저작물」을 창작한 사람에게 부여되는 권리로, 자신이 창작한 저작물이 무단으로 복제되거나 인터넷상에서 사용되는 것을 금지할 수 있는 권리입니다.

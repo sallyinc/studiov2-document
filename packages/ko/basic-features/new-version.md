@@ -6,7 +6,7 @@
 
 **오른쪽 위 버튼**을 누르면 새 버전을 생성할 수 있는지에 대한 오류 검사가 자동으로 수행됩니다.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (35).png" alt="" width="457"><figcaption></figcaption></figure>
 
 ## 오류 검사와 수정
 
@@ -14,15 +14,13 @@
 
 「**해당 위치로**」를 클릭하면, 오류가 발생한 위치로 바로 이동할 수 있습니다.
 
-![](../.gitbook/assets/demo2.png)
-
-\\
+<img src="../.gitbook/assets/02 (27).png" alt="" width="563">
 
 모두 문제없이 설정되어 있으면, 버전 생성을 위한 팝업이 표시됩니다.
 
 입력란은 무엇을 수정했는지 나중에 확인하기 쉽도록 하는 본인용 메모 칸입니다. 작가 외에는 보이지 않으므로 자유롭게 기입해도 괜찮습니다. 빈칸이어도 문제 없습니다.
 
-![](../.gitbook/assets/submit4.png)
+<img src="../.gitbook/assets/03 (21).png" alt="" width="563">
 
 #### ※ 최신 버전이란?
 

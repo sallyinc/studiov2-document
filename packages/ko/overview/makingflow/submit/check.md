@@ -63,6 +63,8 @@ description: 우즈에서 작품을 유료 공개하는 경우 반드시 받으�
 
 미리 확인하고 싶다면 릴리스 관리 화면의 「앱 게재 신청」을 누르고 유료 릴리스를 선택해 다음으로 진행하면 볼 수 있습니다.
 
+<figure><img src="../../../.gitbook/assets/01 (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### 인세율
 
 우즈 스튜디오 유상 공개 규약 안의 「요금표」에서 확인할 수 있습니다. 규약 확인 방법은 [여기](../../../top/term-agreement.md)를 참고해 주세요.
@@ -141,9 +143,13 @@ description: 우즈에서 작품을 유료 공개하는 경우 반드시 받으�
 
 테스트 플레이 기간 중 Google Form으로 수집한 설문 결과를 Google 스프레드시트 형식으로 만들어 제출해 주십시오.
 
+<figure><img src="../../../.gitbook/assets/02 (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### 2．작품의 포인트
 
 시나리오를 제작함에 있어 신경 쓴 부분, 각 캐릭터의 볼거리와 재미에 대해 답변해 주십시오.
+
+<figure><img src="../../../.gitbook/assets/03 (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 3．희망 가격·희망 태그
 
@@ -155,7 +161,7 @@ description: 우즈에서 작품을 유료 공개하는 경우 반드시 받으�
 
 재제출이 필요한 경우에는, 최초 심사 반환 시 피드백으로 수정이 필요하다고 판단되는 부분을 보내드리므로, 그것을 바탕으로 수정·조정을 해 주시고, 폼의 재제출란에 기재해 주십시오.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/04 (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -193,6 +199,8 @@ description: 우즈에서 작품을 유료 공개하는 경우 반드시 받으�
 우즈 스튜디오 공식 서버의 개별 채널에서, 유료화를 희망하는 시나리오명을 알려 주세요. 제출 폼을 드리겠습니다.
 
 심사 제출 폼에서 유료 공개 희망(**맨 위: 예**)을 선택하고, 상세 심사에 제출해 주세요.
+
+<figure><img src="../../../.gitbook/assets/05 (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 앞서 말씀드린 대로, 상세 심사에는 테스트 플레이 설문 결과를 제출하는 항목이 있습니다. 다만 중간부터 유료화하는 작품의 경우에는 아래와 같이 처리합니다.
 

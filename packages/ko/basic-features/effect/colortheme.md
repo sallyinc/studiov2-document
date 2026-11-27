@@ -6,17 +6,17 @@ description: 컬러 테마
 
 컬러 테마 페이지에서 컬러 테마 설정을 할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01 (29).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02 (22).png" alt="" width="563"><figcaption></figcaption></figure>
 
 테마는 2024/01/12 현재 다음 종류를 사용할 수 있습니다.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>라이트</strong></td><td></td><td></td></tr><tr><td><strong>다크</strong></td><td><img src="../../.gitbook/assets/dark.png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>마린</strong></td><td></td><td></td></tr><tr><td><strong>앤티크</strong></td><td><img src="../../.gitbook/assets/antique.png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>드림</strong></td><td><img src="../../.gitbook/assets/dream.png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>모던</strong></td><td><img src="../../.gitbook/assets/modern.png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>메카니컬</strong></td><td><img src="../../.gitbook/assets/mechanical.png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>노스탤지어</strong></td><td><img src="../../.gitbook/assets/nostalgia.png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>사이버펑크</strong></td><td><img src="../../.gitbook/assets/cyberpunk.png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>라이트</strong></td><td><img src="../../.gitbook/assets/03 (16).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>다크</strong></td><td><img src="../../.gitbook/assets/04 (14).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>마린</strong></td><td><p></p><p><img src="../../.gitbook/assets/05 (12).png" alt="" data-size="original"></p></td><td></td></tr><tr><td><strong>앤티크</strong></td><td><img src="../../.gitbook/assets/06 (10).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>드림</strong></td><td><img src="../../.gitbook/assets/07 (7).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>모던</strong></td><td><img src="../../.gitbook/assets/08 (3).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>메카니컬</strong></td><td><img src="../../.gitbook/assets/09 (2).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>노스탤지어</strong></td><td><img src="../../.gitbook/assets/10 (3).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>사이버펑크</strong></td><td><img src="../../.gitbook/assets/11 (2).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 글자색은 자동으로 최적화되므로, 모드에 맞춰 바꿀 필요는 없습니다.
 
-![](../../.gitbook/assets/mode2.png)
+<img src="../../.gitbook/assets/12 (1).png" alt="" width="563">
 
 ### 설정한 시점에 컬러 테마가 변하지 않나요? <a href="#why-not-change" id="why-not-change"></a>
 

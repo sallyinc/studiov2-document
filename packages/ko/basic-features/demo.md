@@ -4,18 +4,22 @@
 
 에디터 화면 오른쪽 위의 「재생 버튼」을 클릭하면 동작 확인이 가능한지 여부에 대한 체크가 자동으로 수행됩니다.
 
-\\
+<figure><img src="../.gitbook/assets/01 (49).png" alt="" width="563"><figcaption></figcaption></figure>
 
 설정 누락이 있는 경우 **미설정 부분이 표시**되므로 적절히 수정해 주세요.
 
 「**해당 위치로**」를 클릭하면, 오류가 발생한 곳으로 직접 이동할 수 있습니다.
 
-\\
+<figure><img src="../.gitbook/assets/02 (37).png" alt="" width="563"><figcaption></figcaption></figure>
 
 모든 설정이 완료된 경우 화면이 전환되어 「**동작 확인을 실행**」이 표시되므로 클릭해 주세요.
 
-\\
+<figure><img src="../.gitbook/assets/03 (29).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
 앱과 거의 동일한 화면을 조작하면서 동작 확인을 진행합니다.
 
 BGM과 SE도 재생됩니다.
+
+<figure><img src="../.gitbook/assets/04 (22).png" alt="" width="563"><figcaption></figcaption></figure>

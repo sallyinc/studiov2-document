@@ -10,4 +10,4 @@
 
 오른쪽 위의 「시나리오 편집」을 클릭하면 시나리오 제작·편집 화면으로 이동할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (37).png" alt="" width="563"><figcaption></figcaption></figure>
