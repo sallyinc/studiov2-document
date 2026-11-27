@@ -37,7 +37,7 @@ description: 此頁面為機器翻譯
 
 ### 在任意時間分發文本
 
-可以在任意時間分發角色表或附加信息等文本，也可以將已分發的文本隱藏。詳情請參考[這裡](../basic-features/textTab.md)。
+可以在任意時間分發角色表或附加信息等文本，也可以將已分發的文本隱藏。詳情請參考[這裡](../basic-features/texttab.md)。
 
 ### 分發和回收線索
 
@@ -57,7 +57,7 @@ description: 此頁面為機器翻譯
 
 ### 設定 BGM 和 SE
 
-可以在任意時間設定 BGM 和 SE 的播放和停止。詳情請參考[這裡](../basic-features/bgm.md)。
+可以在任意時間設定 BGM 和 SE 的播放和停止。詳情請參考[這裡](../basic-features/bgm/)。
 
 ### 組合調查階段1
 

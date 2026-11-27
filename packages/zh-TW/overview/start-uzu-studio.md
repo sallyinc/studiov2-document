@@ -6,7 +6,7 @@
 
 可以從[這裡](https://studio.uzu-app.com/)訪問UZU STUDIO。將其加入書籤會很方便。
 
-![](../images/overview1.png)
+![](../.gitbook/assets/overview1.png)
 
 如果UZU帳戶已經連接外部服務，您也可以使用這些方法登入。
 

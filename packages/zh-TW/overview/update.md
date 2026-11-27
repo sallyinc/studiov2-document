@@ -38,9 +38,9 @@ description: 此頁面為機器翻譯
 
 ### 2024年1月
 
-* 擴充顏色主題從2種至9種。(1/12) 詳細請參考[這裡](../basic-features/bgm.md)
+* 擴充顏色主題從2種至9種。(1/12) 詳細請參考[這裡](../basic-features/bgm/)
 * 可以根據條件設定更改主房間的標題(1/17)
-* 可以設定背景圖片(1/31) 詳細請參考[這裡](../basic-features/background.md)
+* 可以設定背景圖片(1/31) 詳細請參考[這裡](../basic-features/bgm/background.md)
 
 ### 2023年12月
 
