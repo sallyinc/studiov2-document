@@ -1,8 +1,8 @@
-# Basic Character Information
+# Basic character items
 
 This section explains how to set up the basic information for characters.
 
-![](../../images/character3.png)
+![](../../.gitbook/assets/character3.png)
 
 \\
 
@@ -22,7 +22,7 @@ The basic items for player characters are as follows. The icon and nickname can 
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../../images/character2.png)
+![](../../.gitbook/assets/character2.png)
 
 ## Adding PC or NPC
 
@@ -30,13 +30,13 @@ To add a character, click "Add Character" in the top right of the list screen. W
 
 Examples of characters to display:
 
-- Victims
-- Important NPCs in the story\\
+* Victims
+* Important NPCs in the story\\
 
 Examples of characters not to display:
 
-- NPCs known only to a few characters
-- NPCs that only appear in the read-along, like a "detective"
+* NPCs known only to a few characters
+* NPCs that only appear in the read-along, like a "detective"
 
 \\
 

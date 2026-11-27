@@ -1,4 +1,4 @@
-# Advanced Usage
+# Advanced usage
 
 ## How to Add Characters
 
@@ -12,10 +12,10 @@ To add playable characters, use the "Character" screen. To add NPCs, go to the "
 
 From the phase list screen, click "Add Phase" and choose the type of phase to add.
 
-- Basic Phase: For character text reading, additional information distribution, discussions, or explanations.
-- Read-aloud: A part composed of character or NPC dialogue and narration, where players take turns reading.
-- Game Flow Display: Shows the overall game flow as set in "Game Flow."
-- Voting: For truth voting, action selection, etc.
+* Basic Phase: For character text reading, additional information distribution, discussions, or explanations.
+* Read-aloud: A part composed of character or NPC dialogue and narration, where players take turns reading.
+* Game Flow Display: Shows the overall game flow as set in "Game Flow."
+* Voting: For truth voting, action selection, etc.
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ From the phase list screen, move to "Game Flow." Follow these steps:
 2. Enter the required information.
 3. Drag the relevant phase from "Unassigned Timeline Phases" at the bottom of the screen to the timeline.
 
-For more details, see [this page](../../basic-features/phase/timeline.md).
+For more details, see [this page](../../basic-features/phase/basic/timeline.md).
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,7 @@ From the phase list screen, move to "Game Flow" and remove the phase from the ga
 
 ## How to Add Text
 
-Please refer to [this page](../../basic-features/textTab.md).
+Please refer to [this page](../../basic-features/texttab.md).
 
 ## How to Distribute Clues
 
@@ -76,4 +76,4 @@ Please refer to [this page](../../basic-features/room.md).
 
 ## How to Set BGM
 
-Please refer to [this page](../../basic-features/bgm.md).
+Please refer to [this page](../../basic-features/bgm/).

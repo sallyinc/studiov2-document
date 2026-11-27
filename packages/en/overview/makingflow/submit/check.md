@@ -2,33 +2,33 @@
 description: This is a mandatory review process when publishing your work for a fee on Uz.
 ---
 
-# Detailed Review (For Paid Publication Works)
+# Detailed review for paid works
 
 ## Review and Release Process
 
-### 1. Review Submission_Creator
+### 1. Review Submission\_Creator
 
 Click the "Submit for Public Release" button on the " [Release Management](../../../scenariohome/release.md) " page in Uz Studio. A review submission form will open. Select "Yes" under "Do you wish to release for a fee?" and fill out the required information before submitting.
 
-### 2. Pre-check_Uz Studio Editorial Team
+### 2. Pre-check\_Uz Studio Editorial Team
 
 We will confirm whether you have conducted **at least three test plays**.
 
 ※ At least one test play on Uz, and a total of three including external tests.
 
-※ This does not apply if a work previously available for free is transitioning to paid. For more details, please refer to the Q&A.
+※ This does not apply if a work previously available for free is transitioning to paid. For more details, please refer to the Q\&A.
 
-### 3. Review_Uz Studio Editorial Team
+### 3. Review\_Uz Studio Editorial Team
 
 Based on the information in the review submission form, we will check the entire scenario content in the editorial interface and operational check screens of Uz Studio.
 
-### 4. Return_Uz Studio Editorial Team
+### 4. Return\_Uz Studio Editorial Team
 
 We will return one of three results along with feedback: "Pass", "Revise and Resubmit", or "Insufficient Quality". Communication will be done via individual channels on Uz Studio's official Discord server.
 
 ※ The review period from submission to the first feedback is **3 business days (excluding weekends and holidays)**.
 
-### (5. Revision & Resubmission_Creator)
+### (5. Revision & Resubmission\_Creator)
 
 If you receive "Revise and Resubmit" or "Insufficient Quality", please correct the indicated issues and resubmit (return to step 1).
 
@@ -36,17 +36,17 @@ If you receive "Revise and Resubmit" or "Insufficient Quality", please correct t
 
 After passing the review, preparations for publication will proceed in the individual channels on Uz Studio's official Discord server. You will be asked to provide the following information in a publication preparation form:
 
-- **Desired Publication Date**: You may request a date that doesn’t overlap with other works or announcements.
-- **Scenario Overview** for posting via the Uz official account:
-  - Title
-  - Author name: Co-authorship is also allowed.
-  - Number of players
-  - Playtime
-  - Synopsis
-- **Play Fee**:
-  - If you wish to have a sale: the price and the period.
-  - If it's a co-production: the percentage distribution.
-- **Scenario Tendency Tags** to be displayed in the app.
+* **Desired Publication Date**: You may request a date that doesn’t overlap with other works or announcements.
+* **Scenario Overview** for posting via the Uz official account:
+  * Title
+  * Author name: Co-authorship is also allowed.
+  * Number of players
+  * Playtime
+  * Synopsis
+* **Play Fee**:
+  * If you wish to have a sale: the price and the period.
+  * If it's a co-production: the percentage distribution.
+* **Scenario Tendency Tags** to be displayed in the app.
 
 ### 7. Publication
 
@@ -54,7 +54,7 @@ At 18:00 on the confirmed publication date, a post about the work's release will
 
 The entire process from step 1 to step 7 takes approximately one week on average.
 
----
+***
 
 ## Detailed Review Contents and Criteria
 
@@ -62,59 +62,59 @@ The entire process from step 1 to step 7 takes approximately one week on average
 
 **Whether test plays have been properly conducted and utilized**
 
-- Have at least three test plays been conducted? (At least one on Uz and a total of three including external tests)
-- Have test play surveys been collected? (Including those from external test plays)
-- Have the issues pointed out in the surveys been resolved through corrections?
+* Have at least three test plays been conducted? (At least one on Uz and a total of three including external tests)
+* Have test play surveys been collected? (Including those from external test plays)
+* Have the issues pointed out in the surveys been resolved through corrections?
 
 ### ◆Key Points of the Work: Confirmed in the Form
 
-- What parts of the scenario show particular care or enjoyment?
-- Are the characters individually interesting?
-- Do the desired tags match the content?
+* What parts of the scenario show particular care or enjoyment?
+* Are the characters individually interesting?
+* Do the desired tags match the content?
 
 ### ◆Preliminary Information: Confirmed by Uz Studio
 
 #### Scenario Tendency, Warnings, Synopsis, and Author Comments
 
-- Is the information sufficient?
-- Is there no inconsistency between the scenario content and the description?
-- If there are warnings, are they included?
+* Is the information sufficient?
+* Is there no inconsistency between the scenario content and the description?
+* If there are warnings, are they included?
 
 #### Key Visual
 
-- Does it match the content?
-- Does it comply with the [key visual creation regulations](../../visual-regulation.md)?
+* Does it match the content?
+* Does it comply with the [key visual creation regulations](../../visual-regulation.md)?
 
 ### ◆Scenario Content: Confirmed by Uz Studio
 
 #### Phase Progression and Settings
 
-- Are there any mistakes in the phase progression?
-- Are the instructions for how to play appropriate?
-- Are settings like secret talks correctly implemented?
-- Are there no setting errors in the materials?
-- Are the ending branches correct?
+* Are there any mistakes in the phase progression?
+* Are the instructions for how to play appropriate?
+* Are settings like secret talks correctly implemented?
+* Are there no setting errors in the materials?
+* Are the ending branches correct?
 
 #### Text
 
-- Are there any typos or misspellings?
-- Are difficult kanji properly annotated with furigana?
-- Are there no fatal inconsistencies in the text that impair the experience?
-- Is there sufficient readability in terms of uniform indentation and line breaks?
-- Are there no errors in markdown syntax?
+* Are there any typos or misspellings?
+* Are difficult kanji properly annotated with furigana?
+* Are there no fatal inconsistencies in the text that impair the experience?
+* Is there sufficient readability in terms of uniform indentation and line breaks?
+* Are there no errors in markdown syntax?
 
 #### True Scenario Text
 
-- For Murder Mystery: Are the reasoning clues and explanations written in detail in addition to the truth?
-- For Story Playing: Are necessary explanations about the mysteries or world in the story provided?
-- For Puzzle Solving: Is there sufficient explanation on how to solve the puzzles and the correct answers?
+* For Murder Mystery: Are the reasoning clues and explanations written in detail in addition to the truth?
+* For Story Playing: Are necessary explanations about the mysteries or world in the story provided?
+* For Puzzle Solving: Is there sufficient explanation on how to solve the puzzles and the correct answers?
 
 #### BGM
 
-- Is the BGM not too loud or too quiet?
-- Are there no mistakes in BGM settings?
+* Is the BGM not too loud or too quiet?
+* Are there no mistakes in BGM settings?
 
----
+***
 
 ## Items to Submit for First-Time Submission
 
@@ -146,9 +146,9 @@ If resubmission is required, we will send feedback on the areas that need correc
 
 <figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
----
+***
 
-## Q&A
+## Q\&A
 
 If you still have questions after reading the following content, please mention "@Editorial Team" in the "Questions & Requests" text channel on the Discord server.
 
@@ -178,16 +178,16 @@ Reposting or new scenario listing cannot be done after monetization, so transiti
 
 Select "Yes" for the option to monetize from the review submission form and submit it for detailed review.
 
-![](<../../../.gitbook/assets/image (10).png>)
+<img src="../../../.gitbook/assets/image (10).png" alt="" data-size="original">
 
-- For v1 works: Click "Submit Work" → "Under Review" to open the review submission form.
-- For v2 works: From the " **Release Management** " screen in Uz Studio, click "Submit for Monetization" to proceed to the review submission form.
+* For v1 works: Click "Submit Work" → "Under Review" to open the review submission form.
+* For v2 works: From the " **Release Management** " screen in Uz Studio, click "Submit for Monetization" to proceed to the review submission form.
 
 As mentioned earlier, there is a section to submit test play survey results in the detailed review, but for works transitioning to paid after release, the process is as follows:
 
-- **If no surveys were collected during pre-release test plays**\
+* **If no surveys were collected during pre-release test plays**\
   You do not need to attach survey results when submitting for detailed review. We will refer to post-release data.
-- **If surveys were collected during pre-release test plays**\
+* **If surveys were collected during pre-release test plays**\
   Please attach the survey results when submitting for detailed review.
 
 </details>

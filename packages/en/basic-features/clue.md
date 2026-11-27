@@ -4,7 +4,7 @@ In Clues, you can set up and edit the clues exchanged during the game.
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-![](../images/clue1.png)
+![](../.gitbook/assets/clue1.png)
 
 ## Basic Items
 
@@ -64,7 +64,7 @@ Simple settings allow you to set public release, sharing, and transfer only in t
 
 Advanced conditions settings allow you to include not only phases but also voting results, clue situations, rooms, etc., as conditions.
 
-![](../images/clue8.png)
+![](../.gitbook/assets/clue8.png)
 
 ## Actions
 
